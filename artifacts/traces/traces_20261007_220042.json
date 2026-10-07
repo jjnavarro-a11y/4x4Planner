@@ -1,0 +1,1532 @@
+{
+  "eval_cases": [
+    {
+      "prompt": {
+        "parts": [
+          {
+            "text": "Plan a 3-day 4x4 road trip in Moab, Utah for a stock Toyota 4Runner TRD Off-Road (31-inch tires, 9.6-inch clearance, has 4Lo, 1 rear locker, no winch, traveling solo, 23-gallon tank, 18 highway MPG)."
+          }
+        ],
+        "role": "user"
+      },
+      "responses": [
+        {
+          "response": {
+            "parts": [
+              {
+                "text": "### 1. Vehicle Profile & Safe Capability Evaluation\n\n* **Rig:** Stock Toyota 4Runner TRD Off-Road (5th Gen)\n* **Specs:** 31-inch tires (265/70R17), 9.6-inch ground clearance, true 2-speed transfer case (4Lo), 1 rear e-locker, A-TRAC, no winch, 23.0-gallon fuel tank, 18 highway MPG.\n* **Travel Mode:** Solo vehicle.\n* **Evaluated Max Safe Difficulty:** **4 / 10**\n\n#### Rejected Regional Trails & Why:\n* **Hell's Revenge (Rating: 6/10) — REJECTED:** Exceeds your stock rig’s safe envelope (`max_safe_difficulty: 4`). Demands minimum 33-inch tires and 10.5+ inches of clearance to clear steep approach/departure breakovers and rock ledges without tearing off rear bumper covers or rocker panels. Furthermore, running 6/10 slickrock solo without a winch or buddy vehicle carries an unacceptably high stranding risk.\n* **Poison Spider Mesa (Rating: 6/10) — REJECTED:** Requires 33-inch tires, rocker armor, and high clearance to scale the technical sandstone waterfalls and ledges.\n* **Pritchett Canyon (Rating: 9/10) — REJECTED:** Moab's most punishing natural rock-crawling trail; strictly requires 37-inch tires, dual lockers, and a winch.\n* **White Rim Road (Rating: 4/10, 100 miles) — OMITTED:** While mechanically compatible, this remote multi-day backcountry loop requires hard-to-get advance NPS overnight permits and multi-day auxiliary fuel planning, making it impractical for a flexible 3-day trip.\n\n---\n\n### 2. Moab Weather, Elevation & Hazard Advisory\n\n* **Elevation:** ~4,052 ft (Moab Valley) to ~5,900 ft (Island in the Sky Rim).\n* **Forecast Range:** Highs around **88°F**, overnight lows around **58°F**; winds 10–13 mph.\n* **Flash-Flood Risk (MODERATE):** Even with low direct precipitation in town, distant thunderstorms over the La Sal Mountains or Book Cliffs can channel flash floods into slot canyons and dry washes in minutes.\n* **Onion Creek Water Toxicity Warning:** Onion Creek is heavily saturated with natural sulfur, salts, and gypsum. It is **non-potable for humans and toxic to dogs**. Carry 1 gallon of water per person/pet per day.\n* **Human Waste & Land Stewardship:** In Grand County BLM lands outside developed vault toilets, packing out solid human waste via an approved WAG bag system is mandatory.\n\n---\n\n### 3. Day-by-Day 3-Day Itinerary\n\n```\n                       ┌────────────────────────────────────────────────┐\n                       │           MOAB BASE CAMP (Moab, UT)            │\n                       └───────┬──────────────┬──────────────┬──────────┘\n                               │              │              │\n                    Day 1 Leg  │   Day 2 Leg  │   Day 3 Leg  │\n                               ▼              ▼              ▼\n                     Shafer Canyon &     Fins & Things     Onion Creek &\n                       Potash Road       (Sand Flats)      Fisher Towers\n                       Rating: 2/10      Rating: 4/10       Rating: 3/10\n```\n\n---\n\n#### Day 1: Shafer Trail & Potash Road (Canyonlands to Moab)\n* **Trail Difficulty:** **2 / 10** | **Rig Compatibility:** **APPROVED**\n* **Route Summary:** Enter Canyonlands National Park (Island in the Sky) via UT-313, take in the rim viewpoints, then descend the dramatic, 1,500-foot sheer shelf switchbacks of the Shafer Trail down to Potash Road (UT-279) along the Colorado River back to Moab.\n* **Driving Logistics:**\n  * **Highway Approach/Return:** 45 miles\n  * **Off-Road Distance:** 19 miles\n  * **Estimated Off-Road MPG:** 13.5 MPG (mostly gentle downhill braking and graded dirt)\n  * **Daily Fuel Burn:** **3.91 gallons** (17.0% of tank used)\n  * **25% Fuel Reserve Check:** **PASS** — Well within the 75% usable budget (17.25 gal); mandatory 25% reserve (5.75 gal) remains untouched.\n  * **Nearest Fuel:** Moab, UT (Chevron or Maverick on Main St).\n* **4Runner Driving Tips:** Shift into **4Lo and 2nd/3rd gear** descending the switchbacks to let engine compression control your speed and prevent brake overheating.\n* **Regulations & Fees:** Canyonlands National Park entrance fee (or America the Beautiful Pass) required at the top. No permit needed for day-use on Shafer Trail as long as you do not enter the White Rim Road.\n* **Recommended Campsite:** Horsethief BLM Campground (UT-313) or Kings Bottom BLM Campground along Potash Road (UT-279).\n\n---\n\n#### Day 2: Fins and Things (Sand Flats Recreation Area)\n* **Trail Difficulty:** **4 / 10** | **Rig Compatibility:** **APPROVED**\n* **Route Summary:** The premier stock-friendly slickrock obstacle course. Located just 3 miles east of downtown Moab in Sand Flats Recreation Area, this trail features roller-coaster sandstone fins, steep slickrock climbs/descents, and minor sandy ledges.\n* **Driving Logistics:**\n  * **Highway Approach/Return:** 10 miles\n  * **Off-Road Distance:** 10 miles (divided into North and South Loops)\n  * **Estimated Off-Road MPG:** 9.9 MPG (low-range crawling on high-friction sandstone)\n  * **Daily Fuel Burn:** **1.57 gallons** (6.8% of tank used)\n  * **25% Fuel Reserve Check:** **PASS** — Consumes minimal fuel; well within reserve limits.\n  * **Nearest Fuel:** Moab, UT (3 miles from trailhead).\n* **4Runner Driving Tips:**\n  * **Tire Pressure:** Air down stock tires to **16–18 PSI** at the trailhead. Slickrock provides massive traction, but airing down softens the ride and prevents tire slippage on steep sandstone fins.\n  * **Drivetrain:** Shift into **4Lo**. Use your rear locker or Toyota’s **A-TRAC** system if you experience wheel lift on diagonal ledges.\n  * **Line Choice:** Follow the painted white dashed lines and dinosaur tracks. Watch your front air dam and rear hitch receiver on steep fin departures.\n* **Regulations & Fees:** Sand Flats Recreation Area charges a **$5/day entrance fee** (Interagency/National Park passes are *not* accepted). One-way directional travel is strictly enforced.\n* **Recommended Campsite:** Sand Flats Recreation Area Campgrounds (Loops A–J, $20/night, first-come, first-served or Recreation.gov).\n\n---\n\n#### Day 3: Onion Creek Narrows & Fisher Towers\n* **Trail Difficulty:** **3 / 10** | **Rig Compatibility:** **APPROVED**\n* **Route Summary:** Drive northeast along scenic Highway 128 (River Road) alongside the Colorado River to Onion Creek. Traverse the narrow, sheer-walled canyon featuring 26 shallow, cobblestone stream crossings with towering views of the Fisher Towers and the La Sal Mountains.\n* **Driving Logistics:**\n  * **Highway Approach/Return:** 44 miles round-trip\n  * **Off-Road Distance:** 20 miles out-and-back\n  * **Estimated Off-Road MPG:** 9.9 MPG (wading and gravel bed crawling)\n  * **Daily Fuel Burn:** **4.46 gallons** (19.4% of tank used)\n  * **25% Fuel Reserve Check:** **PASS** — Total fuel burn is well under the 75% limit; leaves over 18 gallons in reserve.\n  * **Nearest Fuel:** Moab, UT (top off before departing east on UT-128).\n* **4Runner Driving Tips:**\n  * Keep your speed under 10–15 mph through the creek crossings to prevent muddy, mineral-heavy water from splashing up into the engine bay or radiator.\n  * Keep transmission in **4Hi or 4Lo** depending on cobblestone wash depth.\n* **Regulations & Hazards:**\n  * **Flash-Flood Warning:** Turn back immediately if water turns muddy brown or rises above hub level.\n  * Do not let pets drink from Onion Creek.\n* **Recommended Campsite:** Lower or Upper Onion Creek BLM Campground (vault toilets, picnic tables, directly off UT-128).\n\n---\n\n### 4. Daily Fuel Consumption & Reserve Summary\n\n| Day | Trail | Off-Road / Hwy Miles | Off-Road MPG | Total Gallons Burned | % Tank Used | 25% Reserve Intact? |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| **Day 1** | Shafer Trail & Potash Rd | 19 / 45 mi | 13.5 MPG | 3.91 gal | 17.0% | **YES** (PASS) |\n| **Day 2** | Fins and Things | 10 / 10 mi | 9.9 MPG | 1.57 gal | 6.8% | **YES** (PASS) |\n| **Day 3** | Onion Creek & Fisher Towers | 20 / 44 mi | 9.9 MPG | 4.46 gal | 19.4% | **YES** (PASS) |\n\n*Because all trails loop back near Moab, your 23-gallon fuel tank provides more than enough range without requiring external jerry cans.*\n\n---\n\n### 5. Essential Recovery & Solo Backcountry Checklist\n\n1. **Air Down / Air Up Kit:**\n   * Accurate tire deflator (air down to 16–18 PSI for slickrock/cobblestone).\n   * 12V high-output portable air compressor (e.g., Viair 88P/400P) to air back up before highway pavement.\n   * Heavy-duty tire plug kit and spare valve cores.\n2. **Solo Recovery Gear (No-Winch Setup):**\n   * Set of 2–4 recovery traction boards (e.g., Maxtrax).\n   * 20–30 ft kinetic recovery tow rope + two rated soft shackles.\n   * Full-size matching 31\" spare tire on steel/alloy rim (verify spare tire pressure is at 35 PSI).\n   * Compact shovel.\n3. **Navigation & Emergency Comms:**\n   * Two-way satellite messenger (e.g., Garmin inReach, ACR Bivy Stick, or ZOLEO) — canyon walls block cellular reception.\n   * Offline digital maps downloaded in advance (Gaia GPS or onX Offroad).\n4. **Moab Backcountry Sanitation & Hydration:**\n   * Human waste disposal bag system (Cleanwaste WAG bags).\n   * Minimum 1 gallon of potable water per person/pet per day (extra 2-gallon emergency cache)."
+              }
+            ],
+            "role": "model"
+          }
+        }
+      ],
+      "reference": {
+        "response": {
+          "parts": [
+            {
+              "text": "Recommends a 3-day Moab itinerary using trails rated up to 4/10 (such as Shafer Trail & Potash Road, Gemini Bridges, Onion Creek, or Fins and Things), verifies rig compatibility (max safe rating 4/10), calculates off-road fuel consumption confirming each daily leg stays within the 75% usable tank budget (preserving the 25% reserve), includes Moab fuel stops and BLM/Sand Flats campsites, and notes flash-flood/weather advisories."
+            }
+          ],
+          "role": "model"
+        }
+      },
+      "eval_case_id": "moab_stock_4runner_3day",
+      "agent_data": {
+        "agents": {
+          "four_by_four_planner": {
+            "agent_id": "four_by_four_planner",
+            "agent_type": "LlmAgent",
+            "description": "",
+            "instruction": "You are an expert 4x4 Road Trip & Overlanding Itinerary Planner.\nYour mission is to build safe, realistic, day-by-day 4x4 road trip itineraries tailored to the user's vehicle build and backcountry safety rules.\n\n### Mandatory Tool Workflow\nWhenever a user asks to plan a trip, evaluate a trail, or check route logistics:\n1. **Discover Trails:** Call `search_curated_trails` for the target region/trail first. If the requested region or trail is not in the curated catalog (or the user asks for live permit/closure details), call `web_trail_researcher`.\n2. **Validate Vehicle Compatibility:** For every candidate or requested trail, ALWAYS call `check_rig_trail_compatibility` using the user's vehicle specs (tire size in inches, ground clearance in inches, whether it has a true 4WD Low-range transfer case `has_4lo`, number of locking differentials `lockers`, `has_winch`, and `is_solo`).\n   - If the user did not specify their vehicle specs, assume a stock true 4WD with 4Lo (`tire_size_inches=31.0`, `clearance_inches=9.5`, `has_4lo=True`, `lockers=0`, `has_winch=False`, `is_solo=True`, `highway_mpg=18.0`, `tank_capacity_gallons=21.0`), state this assumption clearly, and invite them to share their exact build.\n   - Note that AWD crossovers (e.g., Subaru Outback, RAV4, CR-V) do NOT have 4Lo (`has_4lo=False`) and are strictly capped at 2/10 graded dirt roads.\n3. **Calculate Fuel & 25% Reserve:** For every daily leg or remote traverse, ALWAYS call `calculate_offroad_fuel_plan` to compute degraded off-road MPG, total gallons burned, % of tank used, and whether the leg stays within the 75% usable fuel budget (preserving the mandatory 25% reserve).\n4. **Check Weather & Elevation:** Call `get_trail_weather_and_elevation` for the trip region to surface flash-flood risks (canyons/washes) and high-altitude freeze/snow advisories.\n\n### Strict Backcountry Safety Guardrails\n- **Hard Capability Block:** NEVER schedule a trail in the primary itinerary if `check_rig_trail_compatibility` returns `is_compatible: False` (`REJECTED_UNSAFE_FOR_RIG`). Explicitly explain why the trail is unsafe for the rig (citing the exact missing equipment such as 4Lo, tire size, clearance, lockers, or winch) and substitute safe, compatible trails (`difficulty <= max_safe_difficulty`) in the same region.\n- **25% Fuel Reserve Rule:** If `calculate_offroad_fuel_plan` shows `meets_25_percent_reserve_rule: False` (>75% tank utilization), prominently display a **FUEL RESERVE WARNING** stating the exact gallons needed, % of tank used, and the required auxiliary fuel (e.g., 5-gallon jerry cans / RotopaX) or mandatory fuel stop.\n- **Solo & Recovery Advisories:** Always include any solo-travel or winch/recovery warnings returned by `check_rig_trail_compatibility` (especially on trails rated >= 6/10) and remind drivers to air down tires and carry a compressor/plug kit.\n- **Responsible Trail Stewardship & Legal Access:** Recommend only legal, designated OHV/4x4 routes and authorized dispersed or developed campsites (noting required permits such as Canyonlands White Rim permits).\n\n### Output Format for Itineraries\nPresent each itinerary clearly with:\n- **Vehicle Profile & Max Safe Trail Rating (1-10)** (including any rejected trails and why)\n- **Regional Weather, Elevation & Hazard Advisory**\n- **Day-by-Day Plan** (for each day: Trail Name & Rating `X/10`, Rig Compatibility Verdict, Highway + Off-Road Mileage, Estimated Off-Road MPG & Fuel Burn `% of tank` + 25% Reserve Check, Nearest Fuel Stop, and Recommended Campsite)\n- **Essential Recovery & Backcountry Checklist**\n",
+            "tools": [
+              {
+                "function_declarations": [
+                  {
+                    "description": "Searches the curated catalog of 4x4 trails by region or trail name and maximum difficulty.\n\nArgs:\n    region: Destination region or trail keyword (e.g. 'Moab', 'Sierra', 'Rubicon', 'Colorado', 'Sedona', 'Death Valley').\n    max_difficulty: Maximum trail technical difficulty rating to filter by on a 1 to 10 scale (use 10 to see all trails in the region).\n\nReturns:\n    Dictionary containing 'status', 'matching_trails' (within max_difficulty), and 'harder_trails_in_region' (above max_difficulty for reference).",
+                    "name": "search_curated_trails",
+                    "parameters_json_schema": {
+                      "properties": {
+                        "region": {
+                          "title": "Region",
+                          "type": "string"
+                        },
+                        "max_difficulty": {
+                          "title": "Max Difficulty",
+                          "type": "integer"
+                        }
+                      },
+                      "required": [
+                        "region",
+                        "max_difficulty"
+                      ],
+                      "title": "search_curated_trailsParams",
+                      "type": "object"
+                    }
+                  }
+                ]
+              },
+              {
+                "function_declarations": [
+                  {
+                    "description": "Deterministically evaluates whether a user's 4x4 vehicle is safe for a given trail difficulty (1-10).\n\nArgs:\n    trail_name: Name of the 4x4 trail being evaluated.\n    trail_difficulty: Technical trail rating on a 1 to 10 scale.\n    tire_size_inches: Tire diameter in inches (e.g. 29.0 for AWD crossover, 31.0 for stock 4x4, 33.0-37.0 for modified).\n    clearance_inches: Minimum ground clearance in inches (e.g. 8.7 for Outback, 9.6 for 4Runner, 10.8+ for lifted 4x4).\n    has_4lo: True if the vehicle has a true two-speed transfer case with 4WD Low range (False for AWD crossovers).\n    lockers: Number of locking differentials (0 = open/traction control only, 1 = rear locker, 2 = front and rear lockers).\n    has_winch: True if the vehicle has a front recovery winch installed.\n    is_solo: True if traveling in a single vehicle without a second recovery buddy vehicle.\n\nReturns:\n    Dictionary with 'is_compatible', 'max_safe_difficulty', 'trail_difficulty', 'blocking_reasons', and 'safety_warnings'.",
+                    "name": "check_rig_trail_compatibility",
+                    "parameters_json_schema": {
+                      "properties": {
+                        "trail_name": {
+                          "title": "Trail Name",
+                          "type": "string"
+                        },
+                        "trail_difficulty": {
+                          "title": "Trail Difficulty",
+                          "type": "integer"
+                        },
+                        "tire_size_inches": {
+                          "title": "Tire Size Inches",
+                          "type": "number"
+                        },
+                        "clearance_inches": {
+                          "title": "Clearance Inches",
+                          "type": "number"
+                        },
+                        "has_4lo": {
+                          "title": "Has 4Lo",
+                          "type": "boolean"
+                        },
+                        "lockers": {
+                          "title": "Lockers",
+                          "type": "integer"
+                        },
+                        "has_winch": {
+                          "title": "Has Winch",
+                          "type": "boolean"
+                        },
+                        "is_solo": {
+                          "title": "Is Solo",
+                          "type": "boolean"
+                        }
+                      },
+                      "required": [
+                        "trail_name",
+                        "trail_difficulty",
+                        "tire_size_inches",
+                        "clearance_inches",
+                        "has_4lo",
+                        "lockers",
+                        "has_winch",
+                        "is_solo"
+                      ],
+                      "title": "check_rig_trail_compatibilityParams",
+                      "type": "object"
+                    }
+                  }
+                ]
+              },
+              {
+                "function_declarations": [
+                  {
+                    "description": "Calculates off-road and highway fuel consumption and enforces the mandatory 25% backcountry reserve margin.\n\nArgs:\n    highway_miles: Paved highway approach and return miles between fuel stops for the leg.\n    offroad_miles: Dirt/rock trail miles between fuel stops for the leg.\n    trail_difficulty: Technical trail difficulty rating (1-10) used to determine the off-road 4Lo MPG penalty.\n    highway_mpg: Vehicle's rated highway fuel economy in miles per gallon (MPG).\n    tank_capacity_gallons: Vehicle's total fuel tank capacity in US gallons.\n\nReturns:\n    Dictionary containing estimated off-road MPG, total fuel needed, tank percentage used, 25% reserve compliance status, and required auxiliary fuel (jerry cans).",
+                    "name": "calculate_offroad_fuel_plan",
+                    "parameters_json_schema": {
+                      "properties": {
+                        "highway_miles": {
+                          "title": "Highway Miles",
+                          "type": "number"
+                        },
+                        "offroad_miles": {
+                          "title": "Offroad Miles",
+                          "type": "number"
+                        },
+                        "trail_difficulty": {
+                          "title": "Trail Difficulty",
+                          "type": "integer"
+                        },
+                        "highway_mpg": {
+                          "title": "Highway Mpg",
+                          "type": "number"
+                        },
+                        "tank_capacity_gallons": {
+                          "title": "Tank Capacity Gallons",
+                          "type": "number"
+                        }
+                      },
+                      "required": [
+                        "highway_miles",
+                        "offroad_miles",
+                        "trail_difficulty",
+                        "highway_mpg",
+                        "tank_capacity_gallons"
+                      ],
+                      "title": "calculate_offroad_fuel_planParams",
+                      "type": "object"
+                    }
+                  }
+                ]
+              },
+              {
+                "function_declarations": [
+                  {
+                    "description": "Fetches weather forecast, elevation, flash-flood risk, and alpine snow/ice advisories for a trail or region.\n\nUses OpenStreetMap Nominatim and Open-Meteo keyless APIs, with reliable regional backcountry baselines if offline.\n\nArgs:\n    location_name: Trail region or town name (e.g. 'Moab, Utah', 'Silverton, Colorado', 'Lake Tahoe, California').\n\nReturns:\n    Dictionary with elevation, temperature range, precipitation probability, wind speed, flash-flood risk, and trail weather advisories.",
+                    "name": "get_trail_weather_and_elevation",
+                    "parameters_json_schema": {
+                      "properties": {
+                        "location_name": {
+                          "title": "Location Name",
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "location_name"
+                      ],
+                      "title": "get_trail_weather_and_elevationParams",
+                      "type": "object"
+                    }
+                  }
+                ]
+              },
+              {
+                "function_declarations": [
+                  {
+                    "description": "Searches the web for 4x4 trails outside the local catalog, current seasonal pass/gate closures, BLM/USFS permit rules, dispersed camping regulations, and nearby fuel stations.",
+                    "name": "web_trail_researcher",
+                    "parameters_json_schema": {
+                      "type": "object",
+                      "properties": {
+                        "request": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "request"
+                      ]
+                    }
+                  }
+                ]
+              }
+            ],
+            "sub_agents": []
+          }
+        },
+        "turns": [
+          {
+            "turn_index": 0,
+            "turn_id": "turn_0",
+            "events": [
+              {
+                "author": "four_by_four_planner",
+                "content": {
+                  "parts": [
+                    {
+                      "function_call": {
+                        "id": "call_487054",
+                        "args": {
+                          "region": "Moab",
+                          "max_difficulty": 10
+                        },
+                        "name": "search_curated_trails"
+                      }
+                    },
+                    {
+                      "function_call": {
+                        "id": "call_487055",
+                        "args": {
+                          "location_name": "Moab, Utah"
+                        },
+                        "name": "get_trail_weather_and_elevation"
+                      }
+                    }
+                  ],
+                  "role": "model"
+                },
+                "event_time": "2026-10-07T22:00:45.710338Z"
+              },
+              {
+                "author": "four_by_four_planner",
+                "content": {
+                  "parts": [
+                    {
+                      "function_response": {
+                        "id": "call_487054",
+                        "name": "search_curated_trails",
+                        "response": {
+                          "status": "success",
+                          "queried_region": "Moab",
+                          "max_difficulty_filter": 10,
+                          "matching_trails_count": 8,
+                          "matching_trails": [
+                            {
+                              "name": "Shafer Trail & Potash Road",
+                              "region": "Moab, Utah",
+                              "difficulty": 2,
+                              "distance_miles": 19.0,
+                              "highway_approach_miles": 12.0,
+                              "estimated_hours": 2.5,
+                              "min_tire_inches": 29.0,
+                              "min_clearance_inches": 8.0,
+                              "requires_4lo": false,
+                              "min_lockers": 0,
+                              "requires_winch": false,
+                              "nearest_fuel": "Moab, UT",
+                              "camping": "Shafer Basin BLM dispersed sites or Horsethief Campground (BLM)",
+                              "flash_flood_sensitive": true,
+                              "summary": "Iconic graded switchbacks descending 1,500 ft from Island in the Sky along the Colorado River."
+                            },
+                            {
+                              "name": "Gemini Bridges",
+                              "region": "Moab, Utah",
+                              "difficulty": 3,
+                              "distance_miles": 14.0,
+                              "highway_approach_miles": 10.0,
+                              "estimated_hours": 2.5,
+                              "min_tire_inches": 30.0,
+                              "min_clearance_inches": 8.8,
+                              "requires_4lo": true,
+                              "min_lockers": 0,
+                              "requires_winch": false,
+                              "nearest_fuel": "Moab, UT",
+                              "camping": "Horsethief Campground (BLM) or Bride Canyon dispersed campsites",
+                              "flash_flood_sensitive": true,
+                              "summary": "Scenic moderate 4x4 trail with minor rock steps leading to twin natural sandstone bridges."
+                            },
+                            {
+                              "name": "Onion Creek & Fisher Towers",
+                              "region": "Moab, Utah",
+                              "difficulty": 3,
+                              "distance_miles": 20.0,
+                              "highway_approach_miles": 22.0,
+                              "estimated_hours": 3.0,
+                              "min_tire_inches": 30.0,
+                              "min_clearance_inches": 9.0,
+                              "requires_4lo": true,
+                              "min_lockers": 0,
+                              "requires_winch": false,
+                              "nearest_fuel": "Moab, UT",
+                              "camping": "Onion Creek BLM designated dispersed campsites",
+                              "flash_flood_sensitive": true,
+                              "summary": "Features 26 shallow creek crossings through narrow red-rock canyon walls; avoid during rain."
+                            },
+                            {
+                              "name": "Fins and Things",
+                              "region": "Moab, Utah",
+                              "difficulty": 4,
+                              "distance_miles": 10.0,
+                              "highway_approach_miles": 5.0,
+                              "estimated_hours": 3.5,
+                              "min_tire_inches": 31.0,
+                              "min_clearance_inches": 9.5,
+                              "requires_4lo": true,
+                              "min_lockers": 0,
+                              "requires_winch": false,
+                              "nearest_fuel": "Moab, UT",
+                              "camping": "Sand Flats Recreation Area Campgrounds (Loops A-J)",
+                              "flash_flood_sensitive": false,
+                              "summary": "Classic slickrock rollercoaster with steep climbs and descents; ideal for stock high-clearance 4x4s with 4Lo."
+                            },
+                            {
+                              "name": "White Rim Road",
+                              "region": "Moab, Utah",
+                              "difficulty": 4,
+                              "distance_miles": 100.0,
+                              "highway_approach_miles": 35.0,
+                              "estimated_hours": 14.0,
+                              "min_tire_inches": 31.0,
+                              "min_clearance_inches": 9.5,
+                              "requires_4lo": true,
+                              "min_lockers": 0,
+                              "requires_winch": false,
+                              "nearest_fuel": "Moab, UT (no fuel along the entire 100-mile trail)",
+                              "camping": "Canyonlands NPS permit-required campsites (Murphy Hogback, White Crack, Potato Bottom)",
+                              "flash_flood_sensitive": true,
+                              "summary": "Remote 100-mile multi-day backcountry loop around Island in the Sky; requires NPS permit and auxiliary fuel planning."
+                            },
+                            {
+                              "name": "Hell's Revenge",
+                              "region": "Moab, Utah",
+                              "difficulty": 6,
+                              "distance_miles": 6.5,
+                              "highway_approach_miles": 5.0,
+                              "estimated_hours": 3.5,
+                              "min_tire_inches": 33.0,
+                              "min_clearance_inches": 10.5,
+                              "requires_4lo": true,
+                              "min_lockers": 1,
+                              "requires_winch": false,
+                              "nearest_fuel": "Moab, UT",
+                              "camping": "Sand Flats Recreation Area Campgrounds",
+                              "flash_flood_sensitive": false,
+                              "summary": "Steep slickrock domes, narrow knife-edge ridges, and optional extreme obstacles (Hell's Gate)."
+                            },
+                            {
+                              "name": "Poison Spider Mesa",
+                              "region": "Moab, Utah",
+                              "difficulty": 6,
+                              "distance_miles": 14.0,
+                              "highway_approach_miles": 12.0,
+                              "estimated_hours": 4.5,
+                              "min_tire_inches": 33.0,
+                              "min_clearance_inches": 10.5,
+                              "requires_4lo": true,
+                              "min_lockers": 1,
+                              "requires_winch": false,
+                              "nearest_fuel": "Moab, UT",
+                              "camping": "Williams Bottom BLM Campground along UT-279",
+                              "flash_flood_sensitive": false,
+                              "summary": "Technical sandstone ledges, waterfalls, and sand sections with panoramic views of Moab Valley."
+                            },
+                            {
+                              "name": "Pritchett Canyon",
+                              "region": "Moab, Utah",
+                              "difficulty": 9,
+                              "distance_miles": 8.0,
+                              "highway_approach_miles": 6.0,
+                              "estimated_hours": 6.5,
+                              "min_tire_inches": 37.0,
+                              "min_clearance_inches": 12.5,
+                              "requires_4lo": true,
+                              "min_lockers": 2,
+                              "requires_winch": true,
+                              "nearest_fuel": "Moab, UT",
+                              "camping": "Kane Creek Boulevard BLM campgrounds",
+                              "flash_flood_sensitive": true,
+                              "summary": "Moab's hardest natural rock-crawling trail (Chewy Hill, Rocker Knocker, Rock Pile); requires 37s, dual lockers, and winch."
+                            }
+                          ],
+                          "harder_trails_in_region": []
+                        }
+                      }
+                    },
+                    {
+                      "function_response": {
+                        "id": "call_487055",
+                        "name": "get_trail_weather_and_elevation",
+                        "response": {
+                          "status": "success",
+                          "source": "live_open_meteo",
+                          "queried_location": "Moab, Utah",
+                          "resolved_location": "Moab, Grand County, Utah, 84532, United States",
+                          "elevation_feet": 4052,
+                          "three_day_high_temp_f": 87.8,
+                          "three_day_low_temp_f": 58.0,
+                          "max_precip_probability_percent": 2,
+                          "max_wind_mph": 12.5,
+                          "flash_flood_risk": "MODERATE (2% precip chance) — Desert washes flood from distant storms; monitor NOAA alerts before entering canyons.",
+                          "alpine_snow_ice_risk": "NONE"
+                        }
+                      }
+                    }
+                  ],
+                  "role": "user"
+                },
+                "event_time": "2026-10-07T22:00:49.316761Z"
+              },
+              {
+                "author": "four_by_four_planner",
+                "content": {
+                  "parts": [
+                    {
+                      "function_call": {
+                        "id": "call_336727",
+                        "args": {
+                          "has_4lo": true,
+                          "trail_difficulty": 4,
+                          "tire_size_inches": 31,
+                          "trail_name": "Fins and Things",
+                          "has_winch": false,
+                          "lockers": 1,
+                          "is_solo": true,
+                          "clearance_inches": 9.6
+                        },
+                        "name": "check_rig_trail_compatibility"
+                      }
+                    },
+                    {
+                      "function_call": {
+                        "id": "call_336728",
+                        "args": {
+                          "tire_size_inches": 31,
+                          "trail_difficulty": 3,
+                          "has_winch": false,
+                          "trail_name": "Gemini Bridges",
+                          "has_4lo": true,
+                          "clearance_inches": 9.6,
+                          "is_solo": true,
+                          "lockers": 1
+                        },
+                        "name": "check_rig_trail_compatibility"
+                      }
+                    },
+                    {
+                      "function_call": {
+                        "id": "call_336729",
+                        "args": {
+                          "has_4lo": true,
+                          "clearance_inches": 9.6,
+                          "has_winch": false,
+                          "is_solo": true,
+                          "lockers": 1,
+                          "trail_name": "Onion Creek & Fisher Towers",
+                          "tire_size_inches": 31,
+                          "trail_difficulty": 3
+                        },
+                        "name": "check_rig_trail_compatibility"
+                      }
+                    },
+                    {
+                      "function_call": {
+                        "id": "call_336730",
+                        "args": {
+                          "lockers": 1,
+                          "is_solo": true,
+                          "tire_size_inches": 31,
+                          "trail_difficulty": 2,
+                          "trail_name": "Shafer Trail & Potash Road",
+                          "has_winch": false,
+                          "has_4lo": true,
+                          "clearance_inches": 9.6
+                        },
+                        "name": "check_rig_trail_compatibility"
+                      }
+                    },
+                    {
+                      "function_call": {
+                        "id": "call_336731",
+                        "args": {
+                          "has_4lo": true,
+                          "trail_difficulty": 6,
+                          "tire_size_inches": 31,
+                          "trail_name": "Hell's Revenge",
+                          "has_winch": false,
+                          "lockers": 1,
+                          "is_solo": true,
+                          "clearance_inches": 9.6
+                        },
+                        "name": "check_rig_trail_compatibility"
+                      }
+                    }
+                  ],
+                  "role": "model"
+                },
+                "event_time": "2026-10-07T22:00:54.188720Z"
+              },
+              {
+                "author": "four_by_four_planner",
+                "content": {
+                  "parts": [
+                    {
+                      "function_response": {
+                        "id": "call_336727",
+                        "name": "check_rig_trail_compatibility",
+                        "response": {
+                          "status": "success",
+                          "trail_name": "Fins and Things",
+                          "trail_difficulty": 4,
+                          "max_safe_difficulty": 4,
+                          "is_compatible": true,
+                          "verdict": "APPROVED",
+                          "blocking_reasons": [],
+                          "safety_warnings": [
+                            "Air down tires to 15-20 PSI for off-road traction and sidewall protection, and carry a 12V air compressor + tire plug kit."
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "function_response": {
+                        "id": "call_336728",
+                        "name": "check_rig_trail_compatibility",
+                        "response": {
+                          "status": "success",
+                          "trail_name": "Gemini Bridges",
+                          "trail_difficulty": 3,
+                          "max_safe_difficulty": 4,
+                          "is_compatible": true,
+                          "verdict": "APPROVED",
+                          "blocking_reasons": [],
+                          "safety_warnings": [
+                            "Air down tires to 15-20 PSI for off-road traction and sidewall protection, and carry a 12V air compressor + tire plug kit."
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "function_response": {
+                        "id": "call_336729",
+                        "name": "check_rig_trail_compatibility",
+                        "response": {
+                          "status": "success",
+                          "trail_name": "Onion Creek & Fisher Towers",
+                          "trail_difficulty": 3,
+                          "max_safe_difficulty": 4,
+                          "is_compatible": true,
+                          "verdict": "APPROVED",
+                          "blocking_reasons": [],
+                          "safety_warnings": [
+                            "Air down tires to 15-20 PSI for off-road traction and sidewall protection, and carry a 12V air compressor + tire plug kit."
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "function_response": {
+                        "id": "call_336730",
+                        "name": "check_rig_trail_compatibility",
+                        "response": {
+                          "status": "success",
+                          "trail_name": "Shafer Trail & Potash Road",
+                          "trail_difficulty": 2,
+                          "max_safe_difficulty": 4,
+                          "is_compatible": true,
+                          "verdict": "APPROVED",
+                          "blocking_reasons": [],
+                          "safety_warnings": []
+                        }
+                      }
+                    },
+                    {
+                      "function_response": {
+                        "id": "call_336731",
+                        "name": "check_rig_trail_compatibility",
+                        "response": {
+                          "status": "success",
+                          "trail_name": "Hell's Revenge",
+                          "trail_difficulty": 6,
+                          "max_safe_difficulty": 4,
+                          "is_compatible": false,
+                          "verdict": "REJECTED_UNSAFE_FOR_RIG",
+                          "blocking_reasons": [],
+                          "safety_warnings": [
+                            "SOLO TRAVEL WARNING: Hell's Revenge is rated 6/10. Traveling solo on trails rated 6/10 or higher carries severe stranding risk; travel with a second 4x4 vehicle and carry a satellite communicator (e.g. Garmin inReach).",
+                            "RECOVERY WARNING: Hell's Revenge (6/10) is attempted without a winch. Carry traction boards, a kinetic recovery rope, soft shackles, and travel with a winch-equipped partner.",
+                            "Air down tires to 15-20 PSI for off-road traction and sidewall protection, and carry a 12V air compressor + tire plug kit."
+                          ]
+                        }
+                      }
+                    }
+                  ],
+                  "role": "user"
+                },
+                "event_time": "2026-10-07T22:00:58.922786Z"
+              },
+              {
+                "author": "four_by_four_planner",
+                "content": {
+                  "parts": [
+                    {
+                      "function_call": {
+                        "id": "call_422122",
+                        "args": {
+                          "tank_capacity_gallons": 23,
+                          "trail_difficulty": 2,
+                          "offroad_miles": 19,
+                          "highway_mpg": 18,
+                          "highway_miles": 45
+                        },
+                        "name": "calculate_offroad_fuel_plan"
+                      }
+                    },
+                    {
+                      "function_call": {
+                        "id": "call_422123",
+                        "args": {
+                          "highway_mpg": 18,
+                          "highway_miles": 10,
+                          "tank_capacity_gallons": 23,
+                          "offroad_miles": 10,
+                          "trail_difficulty": 4
+                        },
+                        "name": "calculate_offroad_fuel_plan"
+                      }
+                    },
+                    {
+                      "function_call": {
+                        "id": "call_422124",
+                        "args": {
+                          "highway_miles": 44,
+                          "tank_capacity_gallons": 23,
+                          "offroad_miles": 20,
+                          "trail_difficulty": 3,
+                          "highway_mpg": 18
+                        },
+                        "name": "calculate_offroad_fuel_plan"
+                      }
+                    }
+                  ],
+                  "role": "model"
+                },
+                "event_time": "2026-10-07T22:00:58.929182Z"
+              },
+              {
+                "author": "four_by_four_planner",
+                "content": {
+                  "parts": [
+                    {
+                      "function_response": {
+                        "id": "call_422122",
+                        "name": "calculate_offroad_fuel_plan",
+                        "response": {
+                          "status": "success",
+                          "highway_miles": 45,
+                          "offroad_miles": 19,
+                          "total_leg_miles": 64,
+                          "highway_mpg": 18,
+                          "estimated_offroad_mpg": 13.5,
+                          "total_fuel_needed_gallons": 3.91,
+                          "tank_capacity_gallons": 23,
+                          "usable_75_percent_budget_gallons": 17.25,
+                          "mandatory_25_percent_reserve_gallons": 5.75,
+                          "tank_utilization_percent": 17.0,
+                          "meets_25_percent_reserve_rule": true,
+                          "auxiliary_fuel_required_gallons": 0.0,
+                          "recommended_5gal_jerry_cans": 0,
+                          "fuel_safety_status": "SAFE_WITHIN_75_PERCENT_BUDGET",
+                          "advisory": "PASS: Leg consumes 3.91 gal (17.0% of 23-gal tank), staying within the 75% usable budget (17.25 gal) and preserving at least a 25% reserve (5.75 gal)."
+                        }
+                      }
+                    },
+                    {
+                      "function_response": {
+                        "id": "call_422123",
+                        "name": "calculate_offroad_fuel_plan",
+                        "response": {
+                          "status": "success",
+                          "highway_miles": 10,
+                          "offroad_miles": 10,
+                          "total_leg_miles": 20,
+                          "highway_mpg": 18,
+                          "estimated_offroad_mpg": 9.9,
+                          "total_fuel_needed_gallons": 1.57,
+                          "tank_capacity_gallons": 23,
+                          "usable_75_percent_budget_gallons": 17.25,
+                          "mandatory_25_percent_reserve_gallons": 5.75,
+                          "tank_utilization_percent": 6.8,
+                          "meets_25_percent_reserve_rule": true,
+                          "auxiliary_fuel_required_gallons": 0.0,
+                          "recommended_5gal_jerry_cans": 0,
+                          "fuel_safety_status": "SAFE_WITHIN_75_PERCENT_BUDGET",
+                          "advisory": "PASS: Leg consumes 1.57 gal (6.8% of 23-gal tank), staying within the 75% usable budget (17.25 gal) and preserving at least a 25% reserve (5.75 gal)."
+                        }
+                      }
+                    },
+                    {
+                      "function_response": {
+                        "id": "call_422124",
+                        "name": "calculate_offroad_fuel_plan",
+                        "response": {
+                          "status": "success",
+                          "highway_miles": 44,
+                          "offroad_miles": 20,
+                          "total_leg_miles": 64,
+                          "highway_mpg": 18,
+                          "estimated_offroad_mpg": 9.9,
+                          "total_fuel_needed_gallons": 4.46,
+                          "tank_capacity_gallons": 23,
+                          "usable_75_percent_budget_gallons": 17.25,
+                          "mandatory_25_percent_reserve_gallons": 5.75,
+                          "tank_utilization_percent": 19.4,
+                          "meets_25_percent_reserve_rule": true,
+                          "auxiliary_fuel_required_gallons": 0.0,
+                          "recommended_5gal_jerry_cans": 0,
+                          "fuel_safety_status": "SAFE_WITHIN_75_PERCENT_BUDGET",
+                          "advisory": "PASS: Leg consumes 4.46 gal (19.4% of 23-gal tank), staying within the 75% usable budget (17.25 gal) and preserving at least a 25% reserve (5.75 gal)."
+                        }
+                      }
+                    }
+                  ],
+                  "role": "user"
+                },
+                "event_time": "2026-10-07T22:01:07.995064Z"
+              },
+              {
+                "author": "four_by_four_planner",
+                "content": {
+                  "parts": [
+                    {
+                      "function_call": {
+                        "id": "call_305211",
+                        "args": {
+                          "request": "Moab Sand Flats Recreation Area fee camping Fins and Things Shafer Trail Onion Creek regulations"
+                        },
+                        "name": "web_trail_researcher"
+                      }
+                    }
+                  ],
+                  "role": "model"
+                },
+                "event_time": "2026-10-07T22:01:08.000069Z"
+              },
+              {
+                "author": "four_by_four_planner",
+                "content": {
+                  "parts": [
+                    {
+                      "function_response": {
+                        "id": "call_305211",
+                        "name": "web_trail_researcher",
+                        "response": {
+                          "result": "### 1. Sand Flats Recreation Area (SFRA)\n* **Managing Agency:** Joint partnership between Grand County, Utah, and the Bureau of Land Management (BLM Moab Field Office).\n* **Fees & Passes:** \n  * **Day-Use:** ~$5 per day (or $10 for 7 days). \n  * **Pass Policy:** America the Beautiful / Interagency passes are **not** accepted because operations are funded exclusively by county user fees (the federal Access Pass is the only exception).\n* **Camping:** \n  * **Fees:** ~$20 per night per vehicle (up to 5 people).\n  * **Sites:** 140 individual sites across lettered loops (first-come, first-served) and 6 reservable group sites via Recreation.gov.\n  * **Regulations:** Camping is strictly limited to **designated sites only** (no dispersed camping within the recreation area). Vault toilets and dumpsters are available at trailheads. Wood collection is strictly prohibited (bring certified firewood), and quiet hours run from 10:00 PM to 8:00 AM.\n\n---\n\n### 2. Fins and Things\n* **Managing Agency / Location:** Located entirely within the Sand Flats Recreation Area (Grand County / BLM).\n* **Technical Difficulty:** **4–5 / 10** (Moderate). Features steep slickrock climbs/descents, small ledge drop-offs (up to 18”), and soft sand washes. \n* **Vehicle Requirements:** High-clearance 4WD with low-range transfer case recommended. Suitable for well-driven stock 4x4s (e.g., Jeep Wrangler, Tacoma TRD Off-Road, Bronco).\n* **Regulations & Route Info:** \n  * The trail is divided into North and South loops with strict **one-way directional travel**. Follow the painted dinosaur track/white dashed markings on the slickrock.\n  * **OHV/UTV Rules:** Utah requires all OHV operators to complete the free online Utah OHV Education Course. Non-resident OHVs must possess a valid Utah Non-Resident OHV permit.\n\n---\n\n### 3. Shafer Trail\n* **Managing Agency:** National Park Service (Canyonlands National Park – Island in the Sky District) connecting downhill to BLM lands via Potash Road (UT-279).\n* **Technical Difficulty:** **2–3 / 10** (Easy to Moderate). High-clearance shelf road characterized by narrow, sheer switchbacks down the canyon wall. Low-range 4WD is strongly recommended for engine braking on descents.\n* **Permits & Fees:** \n  * **Day-Use:** **No backcountry permit is required** if only driving Shafer Trail between the Island in the Sky mesa top and Potash Road. However, standard Canyonlands National Park entrance fees apply at the top.\n  * *Note:* If you turn onto the **White Rim Road**, an NPS day-use or overnight backcountry permit is mandatory.\n* **Critical Vehicle Restriction:**\n  * **ATVs, UTVs, and OHVs are strictly PROHIBITED** inside Canyonlands National Park, even if registered as street-legal in Utah or other states. Only standard, highway-legal passenger vehicles and dual-sport/street-legal motorcycles are permitted.\n* **Camping:** No dispersed camping inside Canyonlands National Park. Overnight camping requires an advanced backcountry permit at designated vehicle campsites (e.g., Shafer Campsite).\n\n---\n\n### 4. Onion Creek Trail\n* **Managing Agency:** BLM (Moab Field Office).\n* **Technical Difficulty:** **2 / 10** (Easy scenic overlanding route). Features 25+ shallow creek crossings through narrow red rock canyons. Easily manageable for stock AWD/4WD vehicles in dry conditions.\n* **Camping:** \n  * Dispersed camping is **prohibited** within the immediate UT-128 / Onion Creek corridor. \n  * Camping is limited to established BLM developed fee campgrounds: **Upper Onion Creek Campground** (individual sites first-come, first-served; group sites on Recreation.gov) and **Lower Onion Creek Campground**.\n* **Key Regulations & Hazards:**\n  * **Flash Floods:** Extreme flash flood risk. Even distant rain upstream in the La Sal Mountains can quickly turn shallow crossings into impassable, muddy torrents.\n  * **Water Toxicity:** Onion Creek water is saturated with natural sulfur, gypsum, and salts. It is **non-potable for humans and toxic for pets/dogs**—pack in all culinary and animal drinking water.\n  * **Human Waste:** When recreating or camping outside developed toilet facilities on BLM Moab lands, visitors must pack out all solid human waste using an approved portable toilet or chemical bag (WAG bag) system."
+                        }
+                      }
+                    }
+                  ],
+                  "role": "user"
+                },
+                "event_time": "2026-10-07T22:01:36.225620Z"
+              },
+              {
+                "author": "four_by_four_planner",
+                "content": {
+                  "parts": [
+                    {
+                      "text": "### 1. Vehicle Profile & Safe Capability Evaluation\n\n* **Rig:** Stock Toyota 4Runner TRD Off-Road (5th Gen)\n* **Specs:** 31-inch tires (265/70R17), 9.6-inch ground clearance, true 2-speed transfer case (4Lo), 1 rear e-locker, A-TRAC, no winch, 23.0-gallon fuel tank, 18 highway MPG.\n* **Travel Mode:** Solo vehicle.\n* **Evaluated Max Safe Difficulty:** **4 / 10**\n\n#### Rejected Regional Trails & Why:\n* **Hell's Revenge (Rating: 6/10) — REJECTED:** Exceeds your stock rig’s safe envelope (`max_safe_difficulty: 4`). Demands minimum 33-inch tires and 10.5+ inches of clearance to clear steep approach/departure breakovers and rock ledges without tearing off rear bumper covers or rocker panels. Furthermore, running 6/10 slickrock solo without a winch or buddy vehicle carries an unacceptably high stranding risk.\n* **Poison Spider Mesa (Rating: 6/10) — REJECTED:** Requires 33-inch tires, rocker armor, and high clearance to scale the technical sandstone waterfalls and ledges.\n* **Pritchett Canyon (Rating: 9/10) — REJECTED:** Moab's most punishing natural rock-crawling trail; strictly requires 37-inch tires, dual lockers, and a winch.\n* **White Rim Road (Rating: 4/10, 100 miles) — OMITTED:** While mechanically compatible, this remote multi-day backcountry loop requires hard-to-get advance NPS overnight permits and multi-day auxiliary fuel planning, making it impractical for a flexible 3-day trip.\n\n---\n\n### 2. Moab Weather, Elevation & Hazard Advisory\n\n* **Elevation:** ~4,052 ft (Moab Valley) to ~5,900 ft (Island in the Sky Rim).\n* **Forecast Range:** Highs around **88°F**, overnight lows around **58°F**; winds 10–13 mph.\n* **Flash-Flood Risk (MODERATE):** Even with low direct precipitation in town, distant thunderstorms over the La Sal Mountains or Book Cliffs can channel flash floods into slot canyons and dry washes in minutes.\n* **Onion Creek Water Toxicity Warning:** Onion Creek is heavily saturated with natural sulfur, salts, and gypsum. It is **non-potable for humans and toxic to dogs**. Carry 1 gallon of water per person/pet per day.\n* **Human Waste & Land Stewardship:** In Grand County BLM lands outside developed vault toilets, packing out solid human waste via an approved WAG bag system is mandatory.\n\n---\n\n### 3. Day-by-Day 3-Day Itinerary\n\n```\n                       ┌────────────────────────────────────────────────┐\n                       │           MOAB BASE CAMP (Moab, UT)            │\n                       └───────┬──────────────┬──────────────┬──────────┘\n                               │              │              │\n                    Day 1 Leg  │   Day 2 Leg  │   Day 3 Leg  │\n                               ▼              ▼              ▼\n                     Shafer Canyon &     Fins & Things     Onion Creek &\n                       Potash Road       (Sand Flats)      Fisher Towers\n                       Rating: 2/10      Rating: 4/10       Rating: 3/10\n```\n\n---\n\n#### Day 1: Shafer Trail & Potash Road (Canyonlands to Moab)\n* **Trail Difficulty:** **2 / 10** | **Rig Compatibility:** **APPROVED**\n* **Route Summary:** Enter Canyonlands National Park (Island in the Sky) via UT-313, take in the rim viewpoints, then descend the dramatic, 1,500-foot sheer shelf switchbacks of the Shafer Trail down to Potash Road (UT-279) along the Colorado River back to Moab.\n* **Driving Logistics:**\n  * **Highway Approach/Return:** 45 miles\n  * **Off-Road Distance:** 19 miles\n  * **Estimated Off-Road MPG:** 13.5 MPG (mostly gentle downhill braking and graded dirt)\n  * **Daily Fuel Burn:** **3.91 gallons** (17.0% of tank used)\n  * **25% Fuel Reserve Check:** **PASS** — Well within the 75% usable budget (17.25 gal); mandatory 25% reserve (5.75 gal) remains untouched.\n  * **Nearest Fuel:** Moab, UT (Chevron or Maverick on Main St).\n* **4Runner Driving Tips:** Shift into **4Lo and 2nd/3rd gear** descending the switchbacks to let engine compression control your speed and prevent brake overheating.\n* **Regulations & Fees:** Canyonlands National Park entrance fee (or America the Beautiful Pass) required at the top. No permit needed for day-use on Shafer Trail as long as you do not enter the White Rim Road.\n* **Recommended Campsite:** Horsethief BLM Campground (UT-313) or Kings Bottom BLM Campground along Potash Road (UT-279).\n\n---\n\n#### Day 2: Fins and Things (Sand Flats Recreation Area)\n* **Trail Difficulty:** **4 / 10** | **Rig Compatibility:** **APPROVED**\n* **Route Summary:** The premier stock-friendly slickrock obstacle course. Located just 3 miles east of downtown Moab in Sand Flats Recreation Area, this trail features roller-coaster sandstone fins, steep slickrock climbs/descents, and minor sandy ledges.\n* **Driving Logistics:**\n  * **Highway Approach/Return:** 10 miles\n  * **Off-Road Distance:** 10 miles (divided into North and South Loops)\n  * **Estimated Off-Road MPG:** 9.9 MPG (low-range crawling on high-friction sandstone)\n  * **Daily Fuel Burn:** **1.57 gallons** (6.8% of tank used)\n  * **25% Fuel Reserve Check:** **PASS** — Consumes minimal fuel; well within reserve limits.\n  * **Nearest Fuel:** Moab, UT (3 miles from trailhead).\n* **4Runner Driving Tips:**\n  * **Tire Pressure:** Air down stock tires to **16–18 PSI** at the trailhead. Slickrock provides massive traction, but airing down softens the ride and prevents tire slippage on steep sandstone fins.\n  * **Drivetrain:** Shift into **4Lo**. Use your rear locker or Toyota’s **A-TRAC** system if you experience wheel lift on diagonal ledges.\n  * **Line Choice:** Follow the painted white dashed lines and dinosaur tracks. Watch your front air dam and rear hitch receiver on steep fin departures.\n* **Regulations & Fees:** Sand Flats Recreation Area charges a **$5/day entrance fee** (Interagency/National Park passes are *not* accepted). One-way directional travel is strictly enforced.\n* **Recommended Campsite:** Sand Flats Recreation Area Campgrounds (Loops A–J, $20/night, first-come, first-served or Recreation.gov).\n\n---\n\n#### Day 3: Onion Creek Narrows & Fisher Towers\n* **Trail Difficulty:** **3 / 10** | **Rig Compatibility:** **APPROVED**\n* **Route Summary:** Drive northeast along scenic Highway 128 (River Road) alongside the Colorado River to Onion Creek. Traverse the narrow, sheer-walled canyon featuring 26 shallow, cobblestone stream crossings with towering views of the Fisher Towers and the La Sal Mountains.\n* **Driving Logistics:**\n  * **Highway Approach/Return:** 44 miles round-trip\n  * **Off-Road Distance:** 20 miles out-and-back\n  * **Estimated Off-Road MPG:** 9.9 MPG (wading and gravel bed crawling)\n  * **Daily Fuel Burn:** **4.46 gallons** (19.4% of tank used)\n  * **25% Fuel Reserve Check:** **PASS** — Total fuel burn is well under the 75% limit; leaves over 18 gallons in reserve.\n  * **Nearest Fuel:** Moab, UT (top off before departing east on UT-128).\n* **4Runner Driving Tips:**\n  * Keep your speed under 10–15 mph through the creek crossings to prevent muddy, mineral-heavy water from splashing up into the engine bay or radiator.\n  * Keep transmission in **4Hi or 4Lo** depending on cobblestone wash depth.\n* **Regulations & Hazards:**\n  * **Flash-Flood Warning:** Turn back immediately if water turns muddy brown or rises above hub level.\n  * Do not let pets drink from Onion Creek.\n* **Recommended Campsite:** Lower or Upper Onion Creek BLM Campground (vault toilets, picnic tables, directly off UT-128).\n\n---\n\n### 4. Daily Fuel Consumption & Reserve Summary\n\n| Day | Trail | Off-Road / Hwy Miles | Off-Road MPG | Total Gallons Burned | % Tank Used | 25% Reserve Intact? |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| **Day 1** | Shafer Trail & Potash Rd | 19 / 45 mi | 13.5 MPG | 3.91 gal | 17.0% | **YES** (PASS) |\n| **Day 2** | Fins and Things | 10 / 10 mi | 9.9 MPG | 1.57 gal | 6.8% | **YES** (PASS) |\n| **Day 3** | Onion Creek & Fisher Towers | 20 / 44 mi | 9.9 MPG | 4.46 gal | 19.4% | **YES** (PASS) |\n\n*Because all trails loop back near Moab, your 23-gallon fuel tank provides more than enough range without requiring external jerry cans.*\n\n---\n\n### 5. Essential Recovery & Solo Backcountry Checklist\n\n1. **Air Down / Air Up Kit:**\n   * Accurate tire deflator (air down to 16–18 PSI for slickrock/cobblestone).\n   * 12V high-output portable air compressor (e.g., Viair 88P/400P) to air back up before highway pavement.\n   * Heavy-duty tire plug kit and spare valve cores.\n2. **Solo Recovery Gear (No-Winch Setup):**\n   * Set of 2–4 recovery traction boards (e.g., Maxtrax).\n   * 20–30 ft kinetic recovery tow rope + two rated soft shackles.\n   * Full-size matching 31\" spare tire on steel/alloy rim (verify spare tire pressure is at 35 PSI).\n   * Compact shovel.\n3. **Navigation & Emergency Comms:**\n   * Two-way satellite messenger (e.g., Garmin inReach, ACR Bivy Stick, or ZOLEO) — canyon walls block cellular reception.\n   * Offline digital maps downloaded in advance (Gaia GPS or onX Offroad).\n4. **Moab Backcountry Sanitation & Hydration:**\n   * Human waste disposal bag system (Cleanwaste WAG bags).\n   * Minimum 1 gallon of potable water per person/pet per day (extra 2-gallon emergency cache)."
+                    }
+                  ],
+                  "role": "model"
+                },
+                "event_time": "2026-10-07T22:01:36.229255Z"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "prompt": {
+        "parts": [
+          {
+            "text": "Can I take my stock Subaru Outback (AWD, no 4Lo, 8.7-inch clearance, 29-inch tires, 0 lockers, no winch, solo, 18.5-gallon tank, 26 highway MPG) on the Rubicon Trail for a 2-day trip?"
+          }
+        ],
+        "role": "user"
+      },
+      "responses": [
+        {
+          "response": {
+            "parts": [
+              {
+                "text": "### **The Verdict: Absolutely Not**\n\n**No, you cannot take a stock Subaru Outback on the Rubicon Trail.** \n\nThe Rubicon Trail is a legendary, extreme rock-crawling route rated **8 to 9 out of 10** in technical difficulty. Attempting it in an all-wheel-drive crossover without low range will result in catastrophic mechanical destruction (punctured oil/transmission pans, torn suspension, ruined CVT), body damage, and an extremely expensive backcountry vehicle extraction. \n\n---\n\n### **Vehicle Profile & Rig Compatibility Analysis**\n\n* **Your Vehicle:** Stock Subaru Outback (AWD, open differentials, no 4Lo, 8.7″ ground clearance, 29″ highway tires, no winch, traveling solo)\n* **Max Safe Trail Rating:** **2 / 10** (Graded gravel and dirt forest service roads)\n\n| Metric / Equipment | Your Outback | Rubicon Trail Requirement | Verdict |\n| :--- | :--- | :--- | :--- |\n| **Transfer Case** | AWD (No 4Lo) | **True 2-Speed 4WD with 4Lo** | ❌ **HARD SAFETY BLOCK** (AWD CVT lacks low gearing/crawl ratio to climb granite shelves or engine-brake steep descents) |\n| **Ground Clearance** | 8.7 inches | **11.5 – 12.0+ inches minimum** | ❌ **HARD SAFETY BLOCK** (High-centering and oil pan puncturing guaranteed on granite obstacles like Big Sluice and Cadillac Hill) |\n| **Tire Size & Type** | 29-inch passenger/all-season | **35-inch to 37-inch aggressive MT/AT** | ❌ **HARD SAFETY BLOCK** (Tire punctures, slice damage, lack of traction on boulders) |\n| **Traction Aids** | Open diffs (X-Mode brake traction) | **Front & Rear Selectable Lockers (2 lockers)** | ❌ **REJECTED** |\n| **Self-Recovery** | None | **Mandatory Winch (9,500+ lb rated)** | ❌ **REJECTED** |\n| **Team Size** | Solo | **Minimum 2 rigs (group travel mandatory)** | ❌ **SEVERE STRANDING HAZARD** |\n\n---\n\n### **Regional Weather, Elevation & Hazard Advisory**\n* **Region:** Lake Tahoe / Eldorado National Forest, California\n* **Trail Elevation:** 6,200 – 7,500+ ft\n* **Temperature Range:** Highs near **70.7°F**, overnight lows dropping to **24.7°F**\n* **Weather Hazard Risk:** \n  * **Alpine Freeze/Ice Advisory:** Elevated nighttime freeze hazard at high elevations. Bring sub-freezing sleeping gear and watch for early-morning black ice on shaded dirt roads.\n  * **Precipitation / Flash Flood:** Low risk (3% precipitation probability, peak winds ~17 mph).\n\n---\n\n### **Alternative 2-Day High Sierra Overlanding Itinerary (AWD-Compatible)**\n\nInstead of the Rubicon, here is a stunning, legal, and safe **2-day Sierra Nevada mountain overlanding trip** designed specifically for your Outback’s capabilities (rated 2/10):\n\n---\n\n#### **Day 1: Lake Tahoe Vista — Barker Pass to Blackwood Canyon**\n* **Trail Name:** Barker Pass to Blackwood Canyon Scenic Dirt Road\n* **Difficulty Rating:** **2 / 10** (Graded dirt/gravel Forest Service road)\n* **Rig Compatibility:** **APPROVED** (Safe for 8.7″ clearance, AWD, and 29″ tires)\n* **Mileage:** 30 highway miles approach + 14 dirt miles\n* **Fuel & 25% Reserve Analysis:**\n  * *Highway MPG:* 26.0 | *Estimated Dirt MPG:* 19.5 MPG\n  * *Total Fuel Consumed:* **1.87 gallons**\n  * *Tank Utilization:* **10.1% of 18.5-gallon tank** (Well within the 75% usable budget; preserves mandatory 25% reserve of 4.62 gal)\n* **Nearest Fuel:** Tahoe City, CA (Chevron / Shell)\n* **Overnight Camping:** Barker Pass USFS dispersed camping along the ridge or Kaspian USFS Campground near the lake shore.\n\n---\n\n#### **Day 2: Eldorado High Country — Mormon Emigrant Trail to Leek Springs Ridge**\n* **Trail Name:** Leek Springs & Mormon Emigrant Ridge (Eldorado National Forest)\n* **Difficulty Rating:** **2 / 10** (Forest Service gravel/dirt ridge route)\n* **Rig Compatibility:** **APPROVED** (Gentle logging grades, panoramic views of the Sierra crest)\n* **Mileage:** 35 highway miles + 22 dirt miles\n* **Fuel & 25% Reserve Analysis:**\n  * *Highway MPG:* 26.0 | *Estimated Dirt MPG:* 19.5 MPG\n  * *Total Fuel Consumed:* **2.47 gallons**\n  * *Tank Utilization:* **13.4% of 18.5-gallon tank** (Meets 25% reserve rule with 4.62 gal cushion)\n* **Nearest Fuel:** Pollock Pines, CA (Highway 50 corridor) or Kirkwood, CA (Highway 88)\n* **Overnight Camping / Exit:** Dispersed dry camping near Leek Springs Lookout (USFS rules apply; pack-it-in, pack-it-out) or return via Silver Fork Road toward Highway 50.\n\n---\n\n### **Essential Recovery & Backcountry Checklist for Your Outback**\n1. **Tire Management:** Air down passenger tires conservatively (around **22–24 PSI** on graded dirt to smooth out washboards without breaking bead seals). Pack a **12V portable tire inflator** and a tire plug kit.\n2. **Emergency Satellite Device:** Carry a **Garmin inReach** or satellite SOS-capable phone, as cellular coverage in Sierra canyons is non-existent.\n3. **Sub-Freezing Gear:** 0°F to 15°F rated sleeping bag and thermal layers for 24°F overnight Sierra alpine temperatures.\n4. **Soft Recovery:** A set of compact traction boards (e.g., MaxTrax / ActionTrax), a rated recovery tow strap, and a folding shovel in case you hit loose gravel or mud ruts.\n5. **Permits & Regulations:** Pick up a free California Campfire Permit online (required even for propane camp stoves on USFS lands)."
+              }
+            ],
+            "role": "model"
+          }
+        }
+      ],
+      "reference": {
+        "response": {
+          "parts": [
+            {
+              "text": "Explicitly blocks/rejects the Rubicon Trail (rated 8/10) as unsafe for a stock Subaru Outback because it lacks a 4Lo transfer case, 35-inch tires, 11.5-inch clearance, dual lockers, and a winch (capping the vehicle at 2/10 graded dirt roads), and recommends safe 2/10 Sierra/Tahoe alternatives such as Barker Pass to Blackwood Canyon or Leek Springs & Mormon Emigrant Ridge with fuel and camping details."
+            }
+          ],
+          "role": "model"
+        }
+      },
+      "eval_case_id": "rubicon_awd_safety_rejection",
+      "agent_data": {
+        "agents": {
+          "four_by_four_planner": {
+            "agent_id": "four_by_four_planner",
+            "agent_type": "LlmAgent",
+            "description": "",
+            "instruction": "You are an expert 4x4 Road Trip & Overlanding Itinerary Planner.\nYour mission is to build safe, realistic, day-by-day 4x4 road trip itineraries tailored to the user's vehicle build and backcountry safety rules.\n\n### Mandatory Tool Workflow\nWhenever a user asks to plan a trip, evaluate a trail, or check route logistics:\n1. **Discover Trails:** Call `search_curated_trails` for the target region/trail first. If the requested region or trail is not in the curated catalog (or the user asks for live permit/closure details), call `web_trail_researcher`.\n2. **Validate Vehicle Compatibility:** For every candidate or requested trail, ALWAYS call `check_rig_trail_compatibility` using the user's vehicle specs (tire size in inches, ground clearance in inches, whether it has a true 4WD Low-range transfer case `has_4lo`, number of locking differentials `lockers`, `has_winch`, and `is_solo`).\n   - If the user did not specify their vehicle specs, assume a stock true 4WD with 4Lo (`tire_size_inches=31.0`, `clearance_inches=9.5`, `has_4lo=True`, `lockers=0`, `has_winch=False`, `is_solo=True`, `highway_mpg=18.0`, `tank_capacity_gallons=21.0`), state this assumption clearly, and invite them to share their exact build.\n   - Note that AWD crossovers (e.g., Subaru Outback, RAV4, CR-V) do NOT have 4Lo (`has_4lo=False`) and are strictly capped at 2/10 graded dirt roads.\n3. **Calculate Fuel & 25% Reserve:** For every daily leg or remote traverse, ALWAYS call `calculate_offroad_fuel_plan` to compute degraded off-road MPG, total gallons burned, % of tank used, and whether the leg stays within the 75% usable fuel budget (preserving the mandatory 25% reserve).\n4. **Check Weather & Elevation:** Call `get_trail_weather_and_elevation` for the trip region to surface flash-flood risks (canyons/washes) and high-altitude freeze/snow advisories.\n\n### Strict Backcountry Safety Guardrails\n- **Hard Capability Block:** NEVER schedule a trail in the primary itinerary if `check_rig_trail_compatibility` returns `is_compatible: False` (`REJECTED_UNSAFE_FOR_RIG`). Explicitly explain why the trail is unsafe for the rig (citing the exact missing equipment such as 4Lo, tire size, clearance, lockers, or winch) and substitute safe, compatible trails (`difficulty <= max_safe_difficulty`) in the same region.\n- **25% Fuel Reserve Rule:** If `calculate_offroad_fuel_plan` shows `meets_25_percent_reserve_rule: False` (>75% tank utilization), prominently display a **FUEL RESERVE WARNING** stating the exact gallons needed, % of tank used, and the required auxiliary fuel (e.g., 5-gallon jerry cans / RotopaX) or mandatory fuel stop.\n- **Solo & Recovery Advisories:** Always include any solo-travel or winch/recovery warnings returned by `check_rig_trail_compatibility` (especially on trails rated >= 6/10) and remind drivers to air down tires and carry a compressor/plug kit.\n- **Responsible Trail Stewardship & Legal Access:** Recommend only legal, designated OHV/4x4 routes and authorized dispersed or developed campsites (noting required permits such as Canyonlands White Rim permits).\n\n### Output Format for Itineraries\nPresent each itinerary clearly with:\n- **Vehicle Profile & Max Safe Trail Rating (1-10)** (including any rejected trails and why)\n- **Regional Weather, Elevation & Hazard Advisory**\n- **Day-by-Day Plan** (for each day: Trail Name & Rating `X/10`, Rig Compatibility Verdict, Highway + Off-Road Mileage, Estimated Off-Road MPG & Fuel Burn `% of tank` + 25% Reserve Check, Nearest Fuel Stop, and Recommended Campsite)\n- **Essential Recovery & Backcountry Checklist**\n",
+            "tools": [
+              {
+                "function_declarations": [
+                  {
+                    "description": "Searches the curated catalog of 4x4 trails by region or trail name and maximum difficulty.\n\nArgs:\n    region: Destination region or trail keyword (e.g. 'Moab', 'Sierra', 'Rubicon', 'Colorado', 'Sedona', 'Death Valley').\n    max_difficulty: Maximum trail technical difficulty rating to filter by on a 1 to 10 scale (use 10 to see all trails in the region).\n\nReturns:\n    Dictionary containing 'status', 'matching_trails' (within max_difficulty), and 'harder_trails_in_region' (above max_difficulty for reference).",
+                    "name": "search_curated_trails",
+                    "parameters_json_schema": {
+                      "properties": {
+                        "region": {
+                          "title": "Region",
+                          "type": "string"
+                        },
+                        "max_difficulty": {
+                          "title": "Max Difficulty",
+                          "type": "integer"
+                        }
+                      },
+                      "required": [
+                        "region",
+                        "max_difficulty"
+                      ],
+                      "title": "search_curated_trailsParams",
+                      "type": "object"
+                    }
+                  }
+                ]
+              },
+              {
+                "function_declarations": [
+                  {
+                    "description": "Deterministically evaluates whether a user's 4x4 vehicle is safe for a given trail difficulty (1-10).\n\nArgs:\n    trail_name: Name of the 4x4 trail being evaluated.\n    trail_difficulty: Technical trail rating on a 1 to 10 scale.\n    tire_size_inches: Tire diameter in inches (e.g. 29.0 for AWD crossover, 31.0 for stock 4x4, 33.0-37.0 for modified).\n    clearance_inches: Minimum ground clearance in inches (e.g. 8.7 for Outback, 9.6 for 4Runner, 10.8+ for lifted 4x4).\n    has_4lo: True if the vehicle has a true two-speed transfer case with 4WD Low range (False for AWD crossovers).\n    lockers: Number of locking differentials (0 = open/traction control only, 1 = rear locker, 2 = front and rear lockers).\n    has_winch: True if the vehicle has a front recovery winch installed.\n    is_solo: True if traveling in a single vehicle without a second recovery buddy vehicle.\n\nReturns:\n    Dictionary with 'is_compatible', 'max_safe_difficulty', 'trail_difficulty', 'blocking_reasons', and 'safety_warnings'.",
+                    "name": "check_rig_trail_compatibility",
+                    "parameters_json_schema": {
+                      "properties": {
+                        "trail_name": {
+                          "title": "Trail Name",
+                          "type": "string"
+                        },
+                        "trail_difficulty": {
+                          "title": "Trail Difficulty",
+                          "type": "integer"
+                        },
+                        "tire_size_inches": {
+                          "title": "Tire Size Inches",
+                          "type": "number"
+                        },
+                        "clearance_inches": {
+                          "title": "Clearance Inches",
+                          "type": "number"
+                        },
+                        "has_4lo": {
+                          "title": "Has 4Lo",
+                          "type": "boolean"
+                        },
+                        "lockers": {
+                          "title": "Lockers",
+                          "type": "integer"
+                        },
+                        "has_winch": {
+                          "title": "Has Winch",
+                          "type": "boolean"
+                        },
+                        "is_solo": {
+                          "title": "Is Solo",
+                          "type": "boolean"
+                        }
+                      },
+                      "required": [
+                        "trail_name",
+                        "trail_difficulty",
+                        "tire_size_inches",
+                        "clearance_inches",
+                        "has_4lo",
+                        "lockers",
+                        "has_winch",
+                        "is_solo"
+                      ],
+                      "title": "check_rig_trail_compatibilityParams",
+                      "type": "object"
+                    }
+                  }
+                ]
+              },
+              {
+                "function_declarations": [
+                  {
+                    "description": "Calculates off-road and highway fuel consumption and enforces the mandatory 25% backcountry reserve margin.\n\nArgs:\n    highway_miles: Paved highway approach and return miles between fuel stops for the leg.\n    offroad_miles: Dirt/rock trail miles between fuel stops for the leg.\n    trail_difficulty: Technical trail difficulty rating (1-10) used to determine the off-road 4Lo MPG penalty.\n    highway_mpg: Vehicle's rated highway fuel economy in miles per gallon (MPG).\n    tank_capacity_gallons: Vehicle's total fuel tank capacity in US gallons.\n\nReturns:\n    Dictionary containing estimated off-road MPG, total fuel needed, tank percentage used, 25% reserve compliance status, and required auxiliary fuel (jerry cans).",
+                    "name": "calculate_offroad_fuel_plan",
+                    "parameters_json_schema": {
+                      "properties": {
+                        "highway_miles": {
+                          "title": "Highway Miles",
+                          "type": "number"
+                        },
+                        "offroad_miles": {
+                          "title": "Offroad Miles",
+                          "type": "number"
+                        },
+                        "trail_difficulty": {
+                          "title": "Trail Difficulty",
+                          "type": "integer"
+                        },
+                        "highway_mpg": {
+                          "title": "Highway Mpg",
+                          "type": "number"
+                        },
+                        "tank_capacity_gallons": {
+                          "title": "Tank Capacity Gallons",
+                          "type": "number"
+                        }
+                      },
+                      "required": [
+                        "highway_miles",
+                        "offroad_miles",
+                        "trail_difficulty",
+                        "highway_mpg",
+                        "tank_capacity_gallons"
+                      ],
+                      "title": "calculate_offroad_fuel_planParams",
+                      "type": "object"
+                    }
+                  }
+                ]
+              },
+              {
+                "function_declarations": [
+                  {
+                    "description": "Fetches weather forecast, elevation, flash-flood risk, and alpine snow/ice advisories for a trail or region.\n\nUses OpenStreetMap Nominatim and Open-Meteo keyless APIs, with reliable regional backcountry baselines if offline.\n\nArgs:\n    location_name: Trail region or town name (e.g. 'Moab, Utah', 'Silverton, Colorado', 'Lake Tahoe, California').\n\nReturns:\n    Dictionary with elevation, temperature range, precipitation probability, wind speed, flash-flood risk, and trail weather advisories.",
+                    "name": "get_trail_weather_and_elevation",
+                    "parameters_json_schema": {
+                      "properties": {
+                        "location_name": {
+                          "title": "Location Name",
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "location_name"
+                      ],
+                      "title": "get_trail_weather_and_elevationParams",
+                      "type": "object"
+                    }
+                  }
+                ]
+              },
+              {
+                "function_declarations": [
+                  {
+                    "description": "Searches the web for 4x4 trails outside the local catalog, current seasonal pass/gate closures, BLM/USFS permit rules, dispersed camping regulations, and nearby fuel stations.",
+                    "name": "web_trail_researcher",
+                    "parameters_json_schema": {
+                      "type": "object",
+                      "properties": {
+                        "request": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "request"
+                      ]
+                    }
+                  }
+                ]
+              }
+            ],
+            "sub_agents": []
+          }
+        },
+        "turns": [
+          {
+            "turn_index": 0,
+            "turn_id": "turn_0",
+            "events": [
+              {
+                "author": "four_by_four_planner",
+                "content": {
+                  "parts": [
+                    {
+                      "function_call": {
+                        "id": "call_343192",
+                        "args": {
+                          "region": "Rubicon",
+                          "max_difficulty": 10
+                        },
+                        "name": "search_curated_trails"
+                      }
+                    },
+                    {
+                      "function_call": {
+                        "id": "call_343193",
+                        "args": {
+                          "trail_difficulty": 9,
+                          "lockers": 0,
+                          "has_4lo": false,
+                          "clearance_inches": 8.7,
+                          "trail_name": "Rubicon Trail",
+                          "has_winch": false,
+                          "is_solo": true,
+                          "tire_size_inches": 29
+                        },
+                        "name": "check_rig_trail_compatibility"
+                      }
+                    },
+                    {
+                      "function_call": {
+                        "id": "call_343194",
+                        "args": {
+                          "location_name": "Lake Tahoe, California"
+                        },
+                        "name": "get_trail_weather_and_elevation"
+                      }
+                    }
+                  ],
+                  "role": "model"
+                },
+                "event_time": "2026-10-07T22:00:45.776420Z"
+              },
+              {
+                "author": "four_by_four_planner",
+                "content": {
+                  "parts": [
+                    {
+                      "function_response": {
+                        "id": "call_343192",
+                        "name": "search_curated_trails",
+                        "response": {
+                          "status": "success",
+                          "queried_region": "Rubicon",
+                          "max_difficulty_filter": 10,
+                          "matching_trails_count": 1,
+                          "matching_trails": [
+                            {
+                              "name": "Rubicon Trail",
+                              "region": "Sierra Nevada / Lake Tahoe, California",
+                              "difficulty": 8,
+                              "distance_miles": 22.0,
+                              "highway_approach_miles": 25.0,
+                              "estimated_hours": 14.0,
+                              "min_tire_inches": 35.0,
+                              "min_clearance_inches": 11.5,
+                              "requires_4lo": true,
+                              "min_lockers": 2,
+                              "requires_winch": true,
+                              "nearest_fuel": "Georgetown or Tahoma, CA",
+                              "camping": "Buck Island Lake or Rubicon Springs campsites",
+                              "flash_flood_sensitive": false,
+                              "summary": "Legendary granite boulder-crawling trail (Gatekeeper, Soup Bowl, Big Sluice, Cadillac Hill); requires heavily built 4x4."
+                            }
+                          ],
+                          "harder_trails_in_region": []
+                        }
+                      }
+                    },
+                    {
+                      "function_response": {
+                        "id": "call_343193",
+                        "name": "check_rig_trail_compatibility",
+                        "response": {
+                          "status": "success",
+                          "trail_name": "Rubicon Trail",
+                          "trail_difficulty": 9,
+                          "max_safe_difficulty": 2,
+                          "is_compatible": false,
+                          "verdict": "REJECTED_UNSAFE_FOR_RIG",
+                          "blocking_reasons": [
+                            "HARD SAFETY BLOCK: Vehicle lacks a 4WD Low-range (4Lo) transfer case. AWD vehicles are capped at 2/10 graded dirt roads and cannot safely climb or engine-brake on Rubicon Trail (9/10).",
+                            "Insufficient clearance/tires: Rubicon Trail (9/10) requires at least 31-inch tires and 9.0+ inches of ground clearance (vehicle has 29\" tires and 8.7\" clearance).",
+                            "Missing traction aid: Trails rated 9/10 require at least 1 locking differential (rear locker), 32-33\"+ tires, and 10\"+ clearance.",
+                            "Extreme trail mismatch: Rubicon Trail (9/10) requires 35\"+ tires, 11\"+ ground clearance, and front + rear locking differentials (2 lockers).",
+                            "Missing mandatory winch: Rubicon Trail (9/10) requires a heavy-duty recovery winch.",
+                            "Buggy/extreme rock-crawler territory: Rubicon Trail (9/10) requires 37\"+ tires, dual lockers, and a winch."
+                          ],
+                          "safety_warnings": [
+                            "SOLO TRAVEL WARNING: Rubicon Trail is rated 9/10. Traveling solo on trails rated 6/10 or higher carries severe stranding risk; travel with a second 4x4 vehicle and carry a satellite communicator (e.g. Garmin inReach).",
+                            "RECOVERY WARNING: Rubicon Trail (9/10) is attempted without a winch. Carry traction boards, a kinetic recovery rope, soft shackles, and travel with a winch-equipped partner.",
+                            "Air down tires to 15-20 PSI for off-road traction and sidewall protection, and carry a 12V air compressor + tire plug kit."
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "function_response": {
+                        "id": "call_343194",
+                        "name": "get_trail_weather_and_elevation",
+                        "response": {
+                          "status": "success",
+                          "source": "live_open_meteo",
+                          "queried_location": "Lake Tahoe, California",
+                          "resolved_location": "Lake Tahoe, Placer County, California, United States",
+                          "elevation_feet": 6224,
+                          "three_day_high_temp_f": 70.7,
+                          "three_day_low_temp_f": 24.7,
+                          "max_precip_probability_percent": 3,
+                          "max_wind_mph": 17.1,
+                          "flash_flood_risk": "LOW (3% precip chance)",
+                          "alpine_snow_ice_risk": "ELEVATED (Elevation 6224 ft, overnight low 24.7°F) — Pack cold-weather emergency gear and check for snow/ice on high passes."
+                        }
+                      }
+                    }
+                  ],
+                  "role": "user"
+                },
+                "event_time": "2026-10-07T22:00:52.017875Z"
+              },
+              {
+                "author": "four_by_four_planner",
+                "content": {
+                  "parts": [
+                    {
+                      "function_call": {
+                        "id": "call_326032",
+                        "args": {
+                          "region": "Sierra",
+                          "max_difficulty": 2
+                        },
+                        "name": "search_curated_trails"
+                      }
+                    },
+                    {
+                      "function_call": {
+                        "id": "call_326033",
+                        "args": {
+                          "region": "Sierra",
+                          "max_difficulty": 10
+                        },
+                        "name": "search_curated_trails"
+                      }
+                    }
+                  ],
+                  "role": "model"
+                },
+                "event_time": "2026-10-07T22:00:54.197949Z"
+              },
+              {
+                "author": "four_by_four_planner",
+                "content": {
+                  "parts": [
+                    {
+                      "function_response": {
+                        "id": "call_326032",
+                        "name": "search_curated_trails",
+                        "response": {
+                          "status": "success",
+                          "queried_region": "Sierra",
+                          "max_difficulty_filter": 2,
+                          "matching_trails_count": 2,
+                          "matching_trails": [
+                            {
+                              "name": "Barker Pass to Blackwood Canyon Scenic Dirt Road",
+                              "region": "Sierra Nevada / Lake Tahoe, California",
+                              "difficulty": 2,
+                              "distance_miles": 14.0,
+                              "highway_approach_miles": 8.0,
+                              "estimated_hours": 2.0,
+                              "min_tire_inches": 28.5,
+                              "min_clearance_inches": 8.0,
+                              "requires_4lo": false,
+                              "min_lockers": 0,
+                              "requires_winch": false,
+                              "nearest_fuel": "Tahoe City, CA",
+                              "camping": "Kaspian Campground or Barker Pass USFS dispersed sites",
+                              "flash_flood_sensitive": false,
+                              "summary": "Scenic graded Sierra forest road with Lake Tahoe views; safe for AWD crossovers and stock SUVs."
+                            },
+                            {
+                              "name": "Leek Springs & Mormon Emigrant Ridge",
+                              "region": "Sierra Nevada / Lake Tahoe, California",
+                              "difficulty": 2,
+                              "distance_miles": 22.0,
+                              "highway_approach_miles": 15.0,
+                              "estimated_hours": 2.5,
+                              "min_tire_inches": 28.5,
+                              "min_clearance_inches": 8.0,
+                              "requires_4lo": false,
+                              "min_lockers": 0,
+                              "requires_winch": false,
+                              "nearest_fuel": "Pollock Pines or Kirkwood, CA",
+                              "camping": "Silver Fork USFS Campground or Leek Springs dispersed sites",
+                              "flash_flood_sensitive": false,
+                              "summary": "Easy high-country gravel/dirt ridge road near the Eldorado National Forest; AWD compatible."
+                            }
+                          ],
+                          "harder_trails_in_region": [
+                            {
+                              "name": "Ellis Peak Trail",
+                              "region": "Sierra Nevada / Lake Tahoe, California",
+                              "difficulty": 4,
+                              "distance_miles": 6.0,
+                              "highway_approach_miles": 12.0,
+                              "estimated_hours": 2.5,
+                              "min_tire_inches": 31.0,
+                              "min_clearance_inches": 9.5,
+                              "requires_4lo": true,
+                              "min_lockers": 0,
+                              "requires_winch": false,
+                              "nearest_fuel": "Tahoe City, CA",
+                              "camping": "Ellis Peak summit dispersed camping",
+                              "flash_flood_sensitive": false,
+                              "summary": "Granite steps and forest climbs near Barker Pass suitable for stock 4WD vehicles with 4Lo."
+                            },
+                            {
+                              "name": "Rubicon Trail",
+                              "region": "Sierra Nevada / Lake Tahoe, California",
+                              "difficulty": 8,
+                              "distance_miles": 22.0,
+                              "highway_approach_miles": 25.0,
+                              "estimated_hours": 14.0,
+                              "min_tire_inches": 35.0,
+                              "min_clearance_inches": 11.5,
+                              "requires_4lo": true,
+                              "min_lockers": 2,
+                              "requires_winch": true,
+                              "nearest_fuel": "Georgetown or Tahoma, CA",
+                              "camping": "Buck Island Lake or Rubicon Springs campsites",
+                              "flash_flood_sensitive": false,
+                              "summary": "Legendary granite boulder-crawling trail (Gatekeeper, Soup Bowl, Big Sluice, Cadillac Hill); requires heavily built 4x4."
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "function_response": {
+                        "id": "call_326033",
+                        "name": "search_curated_trails",
+                        "response": {
+                          "status": "success",
+                          "queried_region": "Sierra",
+                          "max_difficulty_filter": 10,
+                          "matching_trails_count": 4,
+                          "matching_trails": [
+                            {
+                              "name": "Barker Pass to Blackwood Canyon Scenic Dirt Road",
+                              "region": "Sierra Nevada / Lake Tahoe, California",
+                              "difficulty": 2,
+                              "distance_miles": 14.0,
+                              "highway_approach_miles": 8.0,
+                              "estimated_hours": 2.0,
+                              "min_tire_inches": 28.5,
+                              "min_clearance_inches": 8.0,
+                              "requires_4lo": false,
+                              "min_lockers": 0,
+                              "requires_winch": false,
+                              "nearest_fuel": "Tahoe City, CA",
+                              "camping": "Kaspian Campground or Barker Pass USFS dispersed sites",
+                              "flash_flood_sensitive": false,
+                              "summary": "Scenic graded Sierra forest road with Lake Tahoe views; safe for AWD crossovers and stock SUVs."
+                            },
+                            {
+                              "name": "Leek Springs & Mormon Emigrant Ridge",
+                              "region": "Sierra Nevada / Lake Tahoe, California",
+                              "difficulty": 2,
+                              "distance_miles": 22.0,
+                              "highway_approach_miles": 15.0,
+                              "estimated_hours": 2.5,
+                              "min_tire_inches": 28.5,
+                              "min_clearance_inches": 8.0,
+                              "requires_4lo": false,
+                              "min_lockers": 0,
+                              "requires_winch": false,
+                              "nearest_fuel": "Pollock Pines or Kirkwood, CA",
+                              "camping": "Silver Fork USFS Campground or Leek Springs dispersed sites",
+                              "flash_flood_sensitive": false,
+                              "summary": "Easy high-country gravel/dirt ridge road near the Eldorado National Forest; AWD compatible."
+                            },
+                            {
+                              "name": "Ellis Peak Trail",
+                              "region": "Sierra Nevada / Lake Tahoe, California",
+                              "difficulty": 4,
+                              "distance_miles": 6.0,
+                              "highway_approach_miles": 12.0,
+                              "estimated_hours": 2.5,
+                              "min_tire_inches": 31.0,
+                              "min_clearance_inches": 9.5,
+                              "requires_4lo": true,
+                              "min_lockers": 0,
+                              "requires_winch": false,
+                              "nearest_fuel": "Tahoe City, CA",
+                              "camping": "Ellis Peak summit dispersed camping",
+                              "flash_flood_sensitive": false,
+                              "summary": "Granite steps and forest climbs near Barker Pass suitable for stock 4WD vehicles with 4Lo."
+                            },
+                            {
+                              "name": "Rubicon Trail",
+                              "region": "Sierra Nevada / Lake Tahoe, California",
+                              "difficulty": 8,
+                              "distance_miles": 22.0,
+                              "highway_approach_miles": 25.0,
+                              "estimated_hours": 14.0,
+                              "min_tire_inches": 35.0,
+                              "min_clearance_inches": 11.5,
+                              "requires_4lo": true,
+                              "min_lockers": 2,
+                              "requires_winch": true,
+                              "nearest_fuel": "Georgetown or Tahoma, CA",
+                              "camping": "Buck Island Lake or Rubicon Springs campsites",
+                              "flash_flood_sensitive": false,
+                              "summary": "Legendary granite boulder-crawling trail (Gatekeeper, Soup Bowl, Big Sluice, Cadillac Hill); requires heavily built 4x4."
+                            }
+                          ],
+                          "harder_trails_in_region": []
+                        }
+                      }
+                    }
+                  ],
+                  "role": "user"
+                },
+                "event_time": "2026-10-07T22:00:55.773650Z"
+              },
+              {
+                "author": "four_by_four_planner",
+                "content": {
+                  "parts": [
+                    {
+                      "function_call": {
+                        "id": "call_450102",
+                        "args": {
+                          "tire_size_inches": 29,
+                          "trail_name": "Barker Pass to Blackwood Canyon",
+                          "has_4lo": false,
+                          "trail_difficulty": 2,
+                          "lockers": 0,
+                          "is_solo": true,
+                          "has_winch": false,
+                          "clearance_inches": 8.7
+                        },
+                        "name": "check_rig_trail_compatibility"
+                      }
+                    },
+                    {
+                      "function_call": {
+                        "id": "call_450103",
+                        "args": {
+                          "tire_size_inches": 29,
+                          "trail_difficulty": 2,
+                          "has_winch": false,
+                          "trail_name": "Leek Springs & Mormon Emigrant Ridge",
+                          "lockers": 0,
+                          "is_solo": true,
+                          "has_4lo": false,
+                          "clearance_inches": 8.7
+                        },
+                        "name": "check_rig_trail_compatibility"
+                      }
+                    }
+                  ],
+                  "role": "model"
+                },
+                "event_time": "2026-10-07T22:00:55.779703Z"
+              },
+              {
+                "author": "four_by_four_planner",
+                "content": {
+                  "parts": [
+                    {
+                      "function_response": {
+                        "id": "call_450102",
+                        "name": "check_rig_trail_compatibility",
+                        "response": {
+                          "status": "success",
+                          "trail_name": "Barker Pass to Blackwood Canyon",
+                          "trail_difficulty": 2,
+                          "max_safe_difficulty": 2,
+                          "is_compatible": true,
+                          "verdict": "APPROVED",
+                          "blocking_reasons": [],
+                          "safety_warnings": []
+                        }
+                      }
+                    },
+                    {
+                      "function_response": {
+                        "id": "call_450103",
+                        "name": "check_rig_trail_compatibility",
+                        "response": {
+                          "status": "success",
+                          "trail_name": "Leek Springs & Mormon Emigrant Ridge",
+                          "trail_difficulty": 2,
+                          "max_safe_difficulty": 2,
+                          "is_compatible": true,
+                          "verdict": "APPROVED",
+                          "blocking_reasons": [],
+                          "safety_warnings": []
+                        }
+                      }
+                    }
+                  ],
+                  "role": "user"
+                },
+                "event_time": "2026-10-07T22:00:59.078805Z"
+              },
+              {
+                "author": "four_by_four_planner",
+                "content": {
+                  "parts": [
+                    {
+                      "function_call": {
+                        "id": "call_347157",
+                        "args": {
+                          "offroad_miles": 14,
+                          "trail_difficulty": 2,
+                          "highway_miles": 30,
+                          "highway_mpg": 26,
+                          "tank_capacity_gallons": 18.5
+                        },
+                        "name": "calculate_offroad_fuel_plan"
+                      }
+                    },
+                    {
+                      "function_call": {
+                        "id": "call_347158",
+                        "args": {
+                          "highway_miles": 35,
+                          "highway_mpg": 26,
+                          "tank_capacity_gallons": 18.5,
+                          "offroad_miles": 22,
+                          "trail_difficulty": 2
+                        },
+                        "name": "calculate_offroad_fuel_plan"
+                      }
+                    }
+                  ],
+                  "role": "model"
+                },
+                "event_time": "2026-10-07T22:00:59.083183Z"
+              },
+              {
+                "author": "four_by_four_planner",
+                "content": {
+                  "parts": [
+                    {
+                      "function_response": {
+                        "id": "call_347157",
+                        "name": "calculate_offroad_fuel_plan",
+                        "response": {
+                          "status": "success",
+                          "highway_miles": 30,
+                          "offroad_miles": 14,
+                          "total_leg_miles": 44,
+                          "highway_mpg": 26,
+                          "estimated_offroad_mpg": 19.5,
+                          "total_fuel_needed_gallons": 1.87,
+                          "tank_capacity_gallons": 18.5,
+                          "usable_75_percent_budget_gallons": 13.88,
+                          "mandatory_25_percent_reserve_gallons": 4.62,
+                          "tank_utilization_percent": 10.1,
+                          "meets_25_percent_reserve_rule": true,
+                          "auxiliary_fuel_required_gallons": 0.0,
+                          "recommended_5gal_jerry_cans": 0,
+                          "fuel_safety_status": "SAFE_WITHIN_75_PERCENT_BUDGET",
+                          "advisory": "PASS: Leg consumes 1.87 gal (10.1% of 18.5-gal tank), staying within the 75% usable budget (13.88 gal) and preserving at least a 25% reserve (4.62 gal)."
+                        }
+                      }
+                    },
+                    {
+                      "function_response": {
+                        "id": "call_347158",
+                        "name": "calculate_offroad_fuel_plan",
+                        "response": {
+                          "status": "success",
+                          "highway_miles": 35,
+                          "offroad_miles": 22,
+                          "total_leg_miles": 57,
+                          "highway_mpg": 26,
+                          "estimated_offroad_mpg": 19.5,
+                          "total_fuel_needed_gallons": 2.47,
+                          "tank_capacity_gallons": 18.5,
+                          "usable_75_percent_budget_gallons": 13.88,
+                          "mandatory_25_percent_reserve_gallons": 4.62,
+                          "tank_utilization_percent": 13.4,
+                          "meets_25_percent_reserve_rule": true,
+                          "auxiliary_fuel_required_gallons": 0.0,
+                          "recommended_5gal_jerry_cans": 0,
+                          "fuel_safety_status": "SAFE_WITHIN_75_PERCENT_BUDGET",
+                          "advisory": "PASS: Leg consumes 2.47 gal (13.4% of 18.5-gal tank), staying within the 75% usable budget (13.88 gal) and preserving at least a 25% reserve (4.62 gal)."
+                        }
+                      }
+                    }
+                  ],
+                  "role": "user"
+                },
+                "event_time": "2026-10-07T22:01:01.604907Z"
+              },
+              {
+                "author": "four_by_four_planner",
+                "content": {
+                  "parts": [
+                    {
+                      "text": "### **The Verdict: Absolutely Not**\n\n**No, you cannot take a stock Subaru Outback on the Rubicon Trail.** \n\nThe Rubicon Trail is a legendary, extreme rock-crawling route rated **8 to 9 out of 10** in technical difficulty. Attempting it in an all-wheel-drive crossover without low range will result in catastrophic mechanical destruction (punctured oil/transmission pans, torn suspension, ruined CVT), body damage, and an extremely expensive backcountry vehicle extraction. \n\n---\n\n### **Vehicle Profile & Rig Compatibility Analysis**\n\n* **Your Vehicle:** Stock Subaru Outback (AWD, open differentials, no 4Lo, 8.7″ ground clearance, 29″ highway tires, no winch, traveling solo)\n* **Max Safe Trail Rating:** **2 / 10** (Graded gravel and dirt forest service roads)\n\n| Metric / Equipment | Your Outback | Rubicon Trail Requirement | Verdict |\n| :--- | :--- | :--- | :--- |\n| **Transfer Case** | AWD (No 4Lo) | **True 2-Speed 4WD with 4Lo** | ❌ **HARD SAFETY BLOCK** (AWD CVT lacks low gearing/crawl ratio to climb granite shelves or engine-brake steep descents) |\n| **Ground Clearance** | 8.7 inches | **11.5 – 12.0+ inches minimum** | ❌ **HARD SAFETY BLOCK** (High-centering and oil pan puncturing guaranteed on granite obstacles like Big Sluice and Cadillac Hill) |\n| **Tire Size & Type** | 29-inch passenger/all-season | **35-inch to 37-inch aggressive MT/AT** | ❌ **HARD SAFETY BLOCK** (Tire punctures, slice damage, lack of traction on boulders) |\n| **Traction Aids** | Open diffs (X-Mode brake traction) | **Front & Rear Selectable Lockers (2 lockers)** | ❌ **REJECTED** |\n| **Self-Recovery** | None | **Mandatory Winch (9,500+ lb rated)** | ❌ **REJECTED** |\n| **Team Size** | Solo | **Minimum 2 rigs (group travel mandatory)** | ❌ **SEVERE STRANDING HAZARD** |\n\n---\n\n### **Regional Weather, Elevation & Hazard Advisory**\n* **Region:** Lake Tahoe / Eldorado National Forest, California\n* **Trail Elevation:** 6,200 – 7,500+ ft\n* **Temperature Range:** Highs near **70.7°F**, overnight lows dropping to **24.7°F**\n* **Weather Hazard Risk:** \n  * **Alpine Freeze/Ice Advisory:** Elevated nighttime freeze hazard at high elevations. Bring sub-freezing sleeping gear and watch for early-morning black ice on shaded dirt roads.\n  * **Precipitation / Flash Flood:** Low risk (3% precipitation probability, peak winds ~17 mph).\n\n---\n\n### **Alternative 2-Day High Sierra Overlanding Itinerary (AWD-Compatible)**\n\nInstead of the Rubicon, here is a stunning, legal, and safe **2-day Sierra Nevada mountain overlanding trip** designed specifically for your Outback’s capabilities (rated 2/10):\n\n---\n\n#### **Day 1: Lake Tahoe Vista — Barker Pass to Blackwood Canyon**\n* **Trail Name:** Barker Pass to Blackwood Canyon Scenic Dirt Road\n* **Difficulty Rating:** **2 / 10** (Graded dirt/gravel Forest Service road)\n* **Rig Compatibility:** **APPROVED** (Safe for 8.7″ clearance, AWD, and 29″ tires)\n* **Mileage:** 30 highway miles approach + 14 dirt miles\n* **Fuel & 25% Reserve Analysis:**\n  * *Highway MPG:* 26.0 | *Estimated Dirt MPG:* 19.5 MPG\n  * *Total Fuel Consumed:* **1.87 gallons**\n  * *Tank Utilization:* **10.1% of 18.5-gallon tank** (Well within the 75% usable budget; preserves mandatory 25% reserve of 4.62 gal)\n* **Nearest Fuel:** Tahoe City, CA (Chevron / Shell)\n* **Overnight Camping:** Barker Pass USFS dispersed camping along the ridge or Kaspian USFS Campground near the lake shore.\n\n---\n\n#### **Day 2: Eldorado High Country — Mormon Emigrant Trail to Leek Springs Ridge**\n* **Trail Name:** Leek Springs & Mormon Emigrant Ridge (Eldorado National Forest)\n* **Difficulty Rating:** **2 / 10** (Forest Service gravel/dirt ridge route)\n* **Rig Compatibility:** **APPROVED** (Gentle logging grades, panoramic views of the Sierra crest)\n* **Mileage:** 35 highway miles + 22 dirt miles\n* **Fuel & 25% Reserve Analysis:**\n  * *Highway MPG:* 26.0 | *Estimated Dirt MPG:* 19.5 MPG\n  * *Total Fuel Consumed:* **2.47 gallons**\n  * *Tank Utilization:* **13.4% of 18.5-gallon tank** (Meets 25% reserve rule with 4.62 gal cushion)\n* **Nearest Fuel:** Pollock Pines, CA (Highway 50 corridor) or Kirkwood, CA (Highway 88)\n* **Overnight Camping / Exit:** Dispersed dry camping near Leek Springs Lookout (USFS rules apply; pack-it-in, pack-it-out) or return via Silver Fork Road toward Highway 50.\n\n---\n\n### **Essential Recovery & Backcountry Checklist for Your Outback**\n1. **Tire Management:** Air down passenger tires conservatively (around **22–24 PSI** on graded dirt to smooth out washboards without breaking bead seals). Pack a **12V portable tire inflator** and a tire plug kit.\n2. **Emergency Satellite Device:** Carry a **Garmin inReach** or satellite SOS-capable phone, as cellular coverage in Sierra canyons is non-existent.\n3. **Sub-Freezing Gear:** 0°F to 15°F rated sleeping bag and thermal layers for 24°F overnight Sierra alpine temperatures.\n4. **Soft Recovery:** A set of compact traction boards (e.g., MaxTrax / ActionTrax), a rated recovery tow strap, and a folding shovel in case you hit loose gravel or mud ruts.\n5. **Permits & Regulations:** Pick up a free California Campfire Permit online (required even for propane camp stoves on USFS lands)."
+                    }
+                  ],
+                  "role": "model"
+                },
+                "event_time": "2026-10-07T22:01:01.609776Z"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

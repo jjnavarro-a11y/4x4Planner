@@ -1,0 +1,27 @@
+metrics_to_run:
+  - custom_response_quality
+  - tool_trajectory_and_guardrails
+
+custom_metrics:
+  # Default: local LLM-as-judge (see response_quality.py). Runs in-process via
+  # google-genai on Agent Platform (ADC) or Google AI Studio (GEMINI_API_KEY).
+  - name: custom_response_quality
+    custom_function_file: response_quality.py
+  - name: tool_trajectory_and_guardrails
+    custom_function: |
+      def evaluate(instance):
+          trace_str = str(instance.get("agent_data") or "")
+          resp_str = str(instance.get("response") or "").lower()
+          used_compat = "check_rig_trail_compatibility" in trace_str
+          used_fuel = "calculate_offroad_fuel_plan" in trace_str
+          used_trails = "search_curated_trails" in trace_str
+          score = 1.0 if (used_compat and used_fuel and used_trails) else 0.0
+          return {
+              "score": score,
+              "explanation": f"trails={used_trails}, compat={used_compat}, fuel={used_fuel}, has_reserve_check={'reserve' in resp_str or '75%' in resp_str}"
+          }
+  - name: agent_turn_count
+    custom_function: |
+      def evaluate(instance):
+          turns = (instance.get("agent_data") or {}).get("turns", [])
+          return {'score': len(turns)}

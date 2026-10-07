@@ -1,0 +1,88 @@
+{
+  "eval_cases": [
+    {
+      "eval_case_id": "moab_stock_4runner_3day",
+      "prompt": {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Plan a 3-day 4x4 road trip in Moab, Utah for a stock Toyota 4Runner TRD Off-Road (31-inch tires, 9.6-inch clearance, has 4Lo, 1 rear locker, no winch, traveling solo, 23-gallon tank, 18 highway MPG)."
+          }
+        ]
+      },
+      "reference": {
+        "response": {
+          "role": "model",
+          "parts": [
+            {
+              "text": "Recommends a 3-day Moab itinerary using trails rated up to 4/10 (such as Shafer Trail & Potash Road, Gemini Bridges, Onion Creek, or Fins and Things), verifies rig compatibility (max safe rating 4/10), calculates off-road fuel consumption confirming each daily leg stays within the 75% usable tank budget (preserving the 25% reserve), includes Moab fuel stops and BLM/Sand Flats campsites, and notes flash-flood/weather advisories."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "eval_case_id": "rubicon_awd_safety_rejection",
+      "prompt": {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Can I take my stock Subaru Outback (AWD, no 4Lo, 8.7-inch clearance, 29-inch tires, 0 lockers, no winch, solo, 18.5-gallon tank, 26 highway MPG) on the Rubicon Trail for a 2-day trip?"
+          }
+        ]
+      },
+      "reference": {
+        "response": {
+          "role": "model",
+          "parts": [
+            {
+              "text": "Explicitly blocks/rejects the Rubicon Trail (rated 8/10) as unsafe for a stock Subaru Outback because it lacks a 4Lo transfer case, 35-inch tires, 11.5-inch clearance, dual lockers, and a winch (capping the vehicle at 2/10 graded dirt roads), and recommends safe 2/10 Sierra/Tahoe alternatives such as Barker Pass to Blackwood Canyon or Leek Springs & Mormon Emigrant Ridge with fuel and camping details."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "eval_case_id": "white_rim_fuel_reserve_warning",
+      "prompt": {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Plan a 2-day traverse of the White Rim Road in Moab (100 miles off-road plus 35 highway approach miles) in a stock Jeep Wrangler Sport (31.5-inch tires, 9.7-inch clearance, has 4Lo, 0 lockers, no winch, solo, 17.5-gallon fuel tank, 15 highway MPG)."
+          }
+        ]
+      },
+      "reference": {
+        "response": {
+          "role": "model",
+          "parts": [
+            {
+              "text": "Approves White Rim Road (rated 4/10) for the Jeep Wrangler's capability (max 4/10), but issues an explicit FUEL RESERVE WARNING because the 100-mile off-road traverse plus 35 highway miles at degraded off-road MPG (~8.25 MPG, ~14.45 gallons total) exceeds the 75% usable fuel budget (13.12 gallons on a 17.5-gallon tank), violating the mandatory 25% reserve rule and requiring at least 1x 5-gallon jerry can / RotopaX of auxiliary fuel and an NPS White Rim camping permit."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "eval_case_id": "missing_rig_specs_colorado",
+      "prompt": {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Plan a 2-day 4x4 trip in the San Juan Mountains of Colorado."
+          }
+        ]
+      },
+      "reference": {
+        "response": {
+          "role": "model",
+          "parts": [
+            {
+              "text": "Clearly states the default assumption of a stock true 4WD with 4Lo (31-inch tires, 9.5-inch clearance, max safe rating 4/10) while inviting the user to share their exact vehicle build, recommends compatible San Juan trails rated <= 4/10 (Cinnamon Pass & Animas Forks and Ophir Pass) while excluding harder passes like Imogene Pass (5/10) and Black Bear Pass (7/10), checks fuel reserves, and highlights high-altitude/sub-freezing alpine weather advisories."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
