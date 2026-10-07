@@ -12,9 +12,12 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+"""FastAPI entry point with OpenTelemetry tracing, Structured JSON Logging, PII Redaction, and Memory Bank."""
+
 import contextlib
 import os
 from collections.abc import AsyncIterator
+from typing import Any
 
 from a2a.server.tasks import InMemoryTaskStore
 from dotenv import load_dotenv
@@ -24,8 +27,20 @@ from google.adk.runners import Runner
 
 from app.app_utils import services
 from app.app_utils.a2a import attach_a2a_routes
+from app.app_utils.reasoning_engine_adapter import (
+    attach_reasoning_engine_routes,
+)
+from app.app_utils.telemetry import (
+    audit_logger,
+    intent_outcome_tracker,
+    redact_pii_text,
+    setup_telemetry,
+)
+from app.app_utils.typing import Feedback
 
 load_dotenv()
+setup_telemetry()
+
 allow_origins = (
     os.getenv("ALLOW_ORIGINS", "").split(",") if os.getenv("ALLOW_ORIGINS") else None
 )
@@ -43,6 +58,7 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
         app=adk_app,
         session_service=services.get_session_service(),
         artifact_service=services.get_artifact_service(),
+        memory_service=services.get_memory_service(),
         auto_create_session=True,
     )
     app.state.runner = runner
@@ -63,11 +79,38 @@ app: FastAPI = get_fast_api_app(
     artifact_service_uri=services.ARTIFACT_SERVICE_URI,
     allow_origins=allow_origins,
     session_service_uri=services.SESSION_SERVICE_URI,
+    memory_service_uri=services.MEMORY_SERVICE_URI,
     otel_to_cloud=otel_to_cloud,
     lifespan=lifespan,
 )
 app.title = "four-by-four-planner"
 app.description = "API for interacting with the Agent four-by-four-planner"
+
+# Proxy routes so the Vertex AI Console Playground (reasoning_engine SDK) can
+# talk to this agent alongside the native adk_api routes.
+attach_reasoning_engine_routes(app)
+
+
+@app.post("/feedback")
+def collect_feedback(feedback: Feedback) -> dict[str, str]:
+    """Collects and logs PII-redacted structured user feedback."""
+    sanitized_payload = feedback.model_dump()
+    sanitized_payload["text"] = redact_pii_text(feedback.text or "")
+    audit_logger.log_struct(sanitized_payload, severity="INFO")
+    return {"status": "success"}
+
+
+@app.get("/audit/intent-outcomes")
+def get_intent_outcome_audit() -> dict[str, Any]:
+    """Returns structured Intent vs. Outcome audit entries captured during agent execution."""
+    return {
+        "status": "success",
+        "count": len(intent_outcome_tracker.completed_entries),
+        "entries": [
+            entry.model_dump(mode="json")
+            for entry in intent_outcome_tracker.completed_entries
+        ],
+    }
 
 
 # Main execution
